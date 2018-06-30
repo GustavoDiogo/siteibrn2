@@ -22,5 +22,5 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-
+  
 <?php include("pages/footer.php"); ?>

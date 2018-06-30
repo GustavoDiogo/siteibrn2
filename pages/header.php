@@ -9,15 +9,22 @@
 
 	<title>IB Represa Nova</title>
 
-	<nav class="navbar navbar-expand-lg navbar-light fixed-top" style="background-color: #ff732e">
-		<a class="navbar-brand" href="" style="padding-left: 2em;padding-right: 2em"><img style="width: 200px;" src="images/ibrn-logo-transparente.png"></a>
+	<nav class="navbar navbar-expand-lg navbar-light fixed-top" style="background: rgba(255,115,46,0.65);">
+		<a class="navbar-brand" href="" style="padding-left: 2em;padding-right: 2em"><img id="imglogo" style="width: 175px;" src="images/ibrn-logo-transparente.png"></a>
 		<button id="navbutton" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
 		<style type="text/css">
-			.nav-item{
-				
+			.nav-item{				
 				font-weight: 500;
+			}
+			@media (max-width: 991px){
+				#spaceheader{
+					padding-bottom: 6em;
+				}
+				#imglogo{
+					margin: 0 auto;
+				}
 			}
 		</style>
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -64,4 +71,4 @@
 	</nav>
 
 </head>
-<div style="padding-bottom: 6.6em"></div>
+<div id="spaceheader"></div>

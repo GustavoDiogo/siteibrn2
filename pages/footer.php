@@ -14,6 +14,9 @@
 		#ft-1 img{
 			width: 100px;
 		}
+    #ft-2{
+      font-size: 13px;
+    }
 	}
 </style>
 
@@ -30,7 +33,12 @@
           <a class="fb-ic">
             <i class="fa fa-facebook white-text mr-4"> </i>
           </a>
-          
+          <a class="ins-ic">
+            <i class="fa fa-instagram white-text mr-4"> </i>
+          </a>
+          <a>
+            <i class="fa fa-youtube white-text mr-4"></i>
+          </a>
           <a class="tw-ic">
             <i class="fa fa-twitter white-text mr-4"> </i>
           </a>
@@ -38,15 +46,6 @@
           <a class="gplus-ic">
             <i class="fa fa-google-plus white-text mr-4"> </i>
           </a>
-          
-          <a class="li-ic">
-            <i class="fa fa-linkedin white-text mr-4"> </i>
-          </a>
-          
-          <a class="ins-ic">
-            <i class="fa fa-instagram white-text"> </i>
-          </a>
-
         </div>        
       </div> 
     </div>
