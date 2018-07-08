@@ -1,4 +1,4 @@
-<?php include("pages/header.php"); ?>
+<?php include("header.php"); ?>
 
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -23,4 +23,4 @@
   </a>
 </div>
   
-<?php include("pages/footer.php"); ?>
+<?php include("footer.php"); ?>

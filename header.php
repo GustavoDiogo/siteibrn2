@@ -10,7 +10,7 @@
 	<title>IB Represa Nova</title>
 
 	<nav class="navbar navbar-expand-lg navbar-light fixed-top" style="background: rgba(255,115,46,0.65);">
-		<a class="navbar-brand" href="" style="padding-left: 2em;padding-right: 2em"><img id="imglogo" style="width: 175px;" src="images/ibrn-logo-transparente.png"></a>
+		<a class="navbar-brand" href="index.php" style="padding-left: 2em;padding-right: 2em"><img id="imglogo" style="width: 175px;" src="images/ibrn-logo-transparente.png"></a>
 		<button id="navbutton" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
@@ -31,19 +31,19 @@
 			<div style="align-content: middle">
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-item active">
-						<a style="color: white" class="nav-link" data-toggle="collapse" data-target="#navbarSupportedContent">HOME</a>
+						<a style="color: white" class="nav-link" data-target="#navbarSupportedContent">HOME</a>
 					</li>	
 					<li class="nav-item">
-						<a style="color: white" class="nav-link" data-toggle="collapse" data-target="#navbarSupportedContent">A IGREJA</a>
+						<a href="igreja.php" style="color: white" class="nav-link" data-target="#navbarSupportedContent">A IGREJA</a>
 					</li>
 					<li class="nav-item">
-						<a style="color: white" class="nav-link" data-toggle="collapse" data-target="#navbarSupportedContent">ESCOLA BÍBLICA</a>
+						<a style="color: white" class="nav-link" data-target="#navbarSupportedContent">ESCOLA BÍBLICA</a>
 					</li>
 					<li class="nav-item">
-						<a style="color: white" class="nav-link" data-toggle="collapse" data-target="#navbarSupportedContent">DEVOCIONAIS</a>
+						<a style="color: white" class="nav-link" data-target="#navbarSupportedContent">DEVOCIONAIS</a>
 					</li>
 					<li class="nav-item">
-						<a style="color: white" class="nav-link" data-toggle="collapse" data-target="#navbarSupportedContent">CULTOS</a>
+						<a style="color: white" class="nav-link" data-target="#navbarSupportedContent">CULTOS</a>
 					</li>
 				    <li class="nav-item dropdown">
 				        <a style="color: white" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -60,10 +60,10 @@
 				        </div>
 				    </li>			
 					<li class="nav-item">
-						<a style="color: white" class="nav-link" data-toggle="collapse" data-target="#navbarSupportedContent">REPRESART</a>
+						<a style="color: white" class="nav-link" data-target="#navbarSupportedContent">REPRESART</a>
 					</li>
 					<li class="nav-item">
-						<a style="color: white" class="nav-link" data-toggle="collapse" data-target="#navbarSupportedContent">CONTATO</a>
+						<a style="color: white" class="nav-link" data-target="#navbarSupportedContent">CONTATO</a>
 					</li>
 				</ul>
 			</div>
