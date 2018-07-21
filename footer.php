@@ -10,22 +10,13 @@
       color: white;
     }
     #ft-3{
-      position: relative;
-      float: right;
       padding: 1.5em 0em 0em 0em;
     }
     #ft-3 a{
       color: white;
-      padding: 0.75em 0.75em 0.75em 0.75em;
+      padding: 0.75em 0.75em 0em 0.75em;
     }
-	@media (max-width: 1199px){
-    #ft-2{
-      margin-top: 2em;
-    }
-		#ft-3{			
-			margin: 0 auto;
-		}
-	}
+
 	@media (max-width: 991px){
 		#ft-1{
 			margin: 0 auto;			
@@ -34,10 +25,12 @@
 			width: 80px;
 		}
     #ft-2{
+      margin: 0 auto;
       font-size: 13px;
-      padding: 0em 0em 0em 0em;
+      padding: 0em 0em 1em 0em;
     }
     #ft-3{
+      margin: 0 auto;
       padding: 0em 0em 0em 0em;
     }
 	}
@@ -53,13 +46,13 @@
     		RUA SILVIA DE BARROS, 125 &#8226; PEDREIRA &#8226; CEP 04462-010 &#8226; SÃO PAULO,SP &#8226; <i class="fa fa-phone"></i>(11) 5611-6811    		
     	</div>
         <div id="ft-3">
-          <a href="https://www.facebook.com/IBRepresaNova/" class="fb-ic">
+          <a style="text-decoration:none" href="https://www.facebook.com/IBRepresaNova/">
             <i class="fa fa-facebook white-text"> </i>
           </a>
-          <a href="https://www.instagram.com/ibrepresanova/" class="ins-ic">
+          <a style="text-decoration:none" href="https://www.instagram.com/ibrepresanova/">
             <i class="fa fa-instagram white-text"> </i>
           </a>
-          <a href="https://www.youtube.com/channel/UCvNtPmmcjh_2N4hZYZruawA">
+          <a style="text-decoration:none" href="https://www.youtube.com/channel/UCvNtPmmcjh_2N4hZYZruawA">
             <i class="fa fa-youtube white-text"></i>
           </a>
         </div>        

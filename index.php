@@ -1,15 +1,29 @@
 <?php include("header.php"); ?>
 
 <style type="text/css">
+  #index1{
+    display: flex;
+  }
   #indexcarousel{
     width: 65%;
     margin: 0.5em 0em 0.5em 0.5em;
   }
-
   #devocional{
     background-color: #087a8a;
     width: 35%;
     margin: 0.5em 0.5em 0.5em 0.5em;
+  }
+  #ministerios{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    color: #ff732d;
+    margin: 0.5em 0.5em 0.5em 0.5em;
+  }
+  #ministerios img{
+    width: 200px;
+    margin: 1em 1em 1em 1em;
   }
 
 @media (max-width: 991px){
@@ -22,6 +36,9 @@
   }
   #devocional{
     width: 100%;
+  }
+  #ministerios img{
+    width: 128px;
   }
 }
   
@@ -56,8 +73,44 @@
       Pensamento: Muitas vezes uma oportunidade nova parece boa aos nossos olhos e a impressão que temos é que tudo vai acabar bem, o problema é que as vezes nossa motivação está errada, e podemos acabar nos afastando da vontade de Deus. Por isso devemos sempre consultar ao Senhor e quando tivermos a resposta certa de Deus, então nossos planos passam a ser os mesmos planos de Deus, e assim podemos descansar, pois tudo o que Deus faz é perfeito e nunca falha.
       
       Oração: Pai querido, ajuda-me a lembrar sempre que eu devo consultar ao Senhor para que os meus caminhos sejam sempre os Seus caminhos, pois não quero andar fora do centro da sua vontade.
-    </div>
+    </div>    
   </div>
+</div>
+
+<div id="ministerios">
+  <div>
+    <img src="images/represart_thumb.jpg">
+    <h6>Teatro RepresArt</h6>
+  </div>
+  <div>
+    <img src="images/represart_thumb.jpg">
+    <h6>Jovens</h6>
+  </div>
+  <div>
+    <img src="images/represart_thumb.jpg">
+    <h6>Represa KIDS</h6>
+  </div>
+  <div>
+    <img src="images/represart_thumb.jpg">
+    <h6>Louvor</h6>
+  </div>
+  <div>
+    <img src="images/represart_thumb.jpg">
+    <h6>Ação Social</h6>
+  </div>
+  <div>
+    <img src="images/represart_thumb.jpg">
+    <h6>Homens</h6>
+  </div>
+  <div>
+    <img src="images/represart_thumb.jpg">
+    <h6>Mulheres</h6>
+  </div>
+  <div>
+    <img src="images/missoes_thumb.jpg">
+    <h6>Missões</h6>
+  </div>
+
 </div>
   
 <?php include("footer.php"); ?>

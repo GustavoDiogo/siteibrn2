@@ -19,22 +19,19 @@
 				font-weight: 500;
 			}
 			@media (max-width: 991px){
-				#spaceheader{
-					padding-bottom: 6em;
-				}
 				#imglogo{
 					margin: 0 auto;
 				}
 			}
 		</style>
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
-			<div style="align-content: middle">
+			<div>
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-item active">
-						<a style="color: white" class="nav-link" data-target="#navbarSupportedContent">HOME</a>
+						<a style="color: white" href="index.php" class="nav-link" data-target="#navbarSupportedContent">HOME</a>
 					</li>	
 					<li class="nav-item">
-						<a href="igreja.php" style="color: white" class="nav-link" data-target="#navbarSupportedContent">A IGREJA</a>
+						<a style="color: white" href="igreja.php" class="nav-link" data-target="#navbarSupportedContent">A IGREJA</a>
 					</li>
 					<li class="nav-item">
 						<a style="color: white" class="nav-link" data-target="#navbarSupportedContent">ESCOLA BÍBLICA</a>
@@ -58,10 +55,7 @@
 				          <a class="dropdown-item" href="#">REPRESART</a>
 				          <a class="dropdown-item" href="#">REPRESA KIDS</a>
 				        </div>
-				    </li>			
-					<li class="nav-item">
-						<a style="color: white" class="nav-link" data-target="#navbarSupportedContent">REPRESART</a>
-					</li>
+				    </li>
 					<li class="nav-item">
 						<a style="color: white" class="nav-link" data-target="#navbarSupportedContent">CONTATO</a>
 					</li>
