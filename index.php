@@ -19,11 +19,11 @@
     justify-content: center;
     text-align: center;
     color: #ff732d;
-    margin: 0.5em 0.5em 0.5em 0.5em;
+    margin: 0em 0.5em 0.5em 0.5em;
   }
   #ministerios img{
     width: 200px;
-    margin: 1em 1em 1em 1em;
+    margin: 0.5em 1em 1em 1em;
   }
 
 @media (max-width: 991px){
@@ -80,35 +80,35 @@
 <div id="ministerios">
   <div>
     <img src="images/represart_thumb.jpg">
-    <h6>Teatro RepresArt</h6>
+    <h5>Teatro RepresArt</h5>
   </div>
   <div>
     <img src="images/represart_thumb.jpg">
-    <h6>Jovens</h6>
+    <h5>Jovens</h5>
   </div>
   <div>
     <img src="images/represart_thumb.jpg">
-    <h6>Represa KIDS</h6>
+    <h5>Represa KIDS</h5>
   </div>
   <div>
     <img src="images/represart_thumb.jpg">
-    <h6>Louvor</h6>
+    <h5>Louvor</h5>
   </div>
   <div>
     <img src="images/represart_thumb.jpg">
-    <h6>Ação Social</h6>
+    <h5>Ação Social</h5>
   </div>
   <div>
     <img src="images/represart_thumb.jpg">
-    <h6>Homens</h6>
+    <h5>Homens</h5>
   </div>
   <div>
     <img src="images/represart_thumb.jpg">
-    <h6>Mulheres</h6>
+    <h5>Mulheres</h5>
   </div>
   <div>
     <img src="images/missoes_thumb.jpg">
-    <h6>Missões</h6>
+    <h5>Missões</h5>
   </div>
 
 </div>
