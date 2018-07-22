@@ -79,38 +79,37 @@
 
 <div id="ministerios">
   <div>
-    <img src="images/represart_thumb.jpg">
-    <h6>Teatro RepresArt</h6>
-  </div>
-  <div>
-    <img src="images/represart_thumb.jpg">
-    <h6>Jovens</h6>
-  </div>
-  <div>
-    <img src="images/represart_thumb.jpg">
-    <h6>Represa KIDS</h6>
-  </div>
-  <div>
-    <img src="images/represart_thumb.jpg">
-    <h6>Louvor</h6>
-  </div>
-  <div>
-    <img src="images/represart_thumb.jpg">
+    <img src="images/acaosocial_thumb.jpg">
     <h6>Ação Social</h6>
   </div>
   <div>
-    <img src="images/represart_thumb.jpg">
+    <img src="images/homens_thumb.jpg">
     <h6>Homens</h6>
   </div>
   <div>
-    <img src="images/represart_thumb.jpg">
-    <h6>Mulheres</h6>
+    <img src="images/jovens_thumb.jpg">
+    <h6>Jovens</h6>
+  </div>
+  <div>
+    <img src="images/louvor_thumb.jpg">
+    <h6>Louvor</h6>
   </div>
   <div>
     <img src="images/missoes_thumb.jpg">
     <h6>Missões</h6>
   </div>
-
+  <div>
+    <img src="images/mulheres_thumb.jpg">
+    <h6>Mulheres</h6>
+  </div>
+  <div>
+    <img src="images/represakids_thumb.jpg">
+    <h6>Represa KIDS</h6>
+  </div>
+  <div>
+    <img src="images/represart_thumb.jpg">
+    <h6>Teatro RepresArt</h6>
+  </div>
 </div>
   
 <?php include("footer.php"); ?>
