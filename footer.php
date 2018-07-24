@@ -36,8 +36,8 @@
 	}
 </style>
 
-<footer style="background-color: #ff732e">
-  <div style="background-color: #ff500e">
+<footer>
+  <div style="background-color: #ff6011">
     <div style="display: flex;flex-wrap: wrap" class="container">
     	<div id="ft-1" align="left">
     		<img src="images/ibrn-logo-rodape-transparente.png">

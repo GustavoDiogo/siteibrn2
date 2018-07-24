@@ -6,10 +6,24 @@
 	}
 	#banner{
 		width: 65%;
+		background-color: #087a8a;
     	margin: 0.5em 0em 0.5em 0.5em;
 	}
-	#banner img{
+	#banner img{		
 		width: 100%;
+	}
+	#banner-menu{
+	    display: flex;
+	    flex-wrap: wrap;
+		justify-content: center;
+		background-color: #087a8a;
+	}
+	#banner-menu a{
+		margin: 1em 1em 1em 1em;
+		flex-wrap: wrap;
+		text-decoration:none;
+		color: white;
+		font-weight: 600;
 	}
 	#descricao{
 		background-color: #087a8a;
@@ -24,6 +38,10 @@
 			width: 100%;
 			margin: 0.5em 0.5em 0.5em 0.5em;
 		}
+		#banner-menu{
+			display: grid;
+			justify-items: center;
+		}
 		#descricao{
 			width: 100%;
 		}
@@ -32,13 +50,13 @@
 
 <div id="maindiv">
   <div id="banner">
-  	<img src="images/igreja1.jpg">
+  	<img src="images/igreja_banner.jpg">
 
-  	<div style="flex-wrap: nowrap;">
-  		<a href="">A Igreja</a>
-  		<a href="">O Pastor</a>
-  		<a href="">Exame das Escrituras</a>
-  		<a href="">Compromisso Social</a>
+  	<div id="banner-menu">
+  		<a href="">A IGREJA</a>
+  		<a href="">O PASTOR</a>
+  		<a href="">EXAME DAS ESCRITURAS</a>
+  		<a href="">COMPROMISSO SOCIAL</a>
   	</div>
 
   </div>
