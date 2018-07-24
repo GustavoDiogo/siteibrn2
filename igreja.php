@@ -1,67 +1,20 @@
 <?php include("header.php"); ?>
 
-<style type="text/css">
-	#maindiv{
-		display: flex;
-	}
-	#banner{
-		width: 65%;
-		background-color: #087a8a;
-    	margin: 0.5em 0em 0.5em 0.5em;
-	}
-	#banner img{		
-		width: 100%;
-	}
-	#banner-menu{
-	    display: flex;
-	    flex-wrap: wrap;
-		justify-content: center;
-		background-color: #087a8a;
-	}
-	#banner-menu a{
-		margin: 1em 1em 1em 1em;
-		flex-wrap: wrap;
-		text-decoration:none;
-		color: white;
-		font-weight: 600;
-	}
-	#descricao{
-		background-color: #087a8a;
-   		width: 35%;
-    	margin: 0.5em 0.5em 0.5em 0.5em;
-	}
-	@media (max-width: 991px){
-		#maindiv{
-			flex-wrap: wrap;
-		}
-		#banner{
-			width: 100%;
-			margin: 0.5em 0.5em 0.5em 0.5em;
-		}
-		#banner-menu{
-			display: grid;
-			justify-items: center;
-		}
-		#descricao{
-			width: 100%;
-		}
-	}
-</style>
+<link rel="stylesheet" href="css/pagina_entrada.css">
 
-<div id="maindiv">
-  <div id="banner">
+<div class="top-div-entrada">
+  <div class="banner">
   	<img src="images/igreja_banner.jpg">
 
-  	<div id="banner-menu">
-  		<a href="">A IGREJA</a>
-  		<a href="">O PASTOR</a>
-  		<a href="">EXAME DAS ESCRITURAS</a>
-  		<a href="">COMPROMISSO SOCIAL</a>
+  	<div class="banner-menu">  		
+  		<a href="pastor.php">O PASTOR</a>
+  		<a href="examedasescrituras.php">EXAME DAS ESCRITURAS</a>
+  		<a href="compromissosocial.php">COMPROMISSO SOCIAL</a>
   	</div>
 
   </div>
-  <div id="descricao">
-    <div style="margin: 1em 1em 1em 1em;text-align: justify;color: white">
+  <div class="descricao-box-entrada">
+    <div class="descricao-box-texto-entrada">
       <h3 align="middle">IGREJA BATISTA REPRESA NOVA</h3>
 		<p style="font-style: italic;">
 		“Pois Ele é a nossa paz, o qual de ambos fez um e destruiu a
