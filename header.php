@@ -16,7 +16,7 @@
 		</button>
 		<style type="text/css">
 			.nav-item{				
-				font-weight: 500;
+				font-weight: 600;
 			}
 			@media (max-width: 991px){
 				#header-logo{
@@ -34,16 +34,16 @@
 						<a style="color: white" href="igreja.php" class="nav-link" data-target="#navbarSupportedContent">A IGREJA</a>
 					</li>
 					<li class="nav-item">
-						<a style="color: white" class="nav-link" data-target="#navbarSupportedContent">ESCOLA BÍBLICA</a>
+						<a style="color: white" href="ebd.php" class="nav-link" data-target="#navbarSupportedContent">ESCOLA BÍBLICA</a>
 					</li>
 					<li class="nav-item">
 						<a style="color: white" class="nav-link" data-target="#navbarSupportedContent">DEVOCIONAIS</a>
 					</li>
 					<li class="nav-item">
-						<a style="color: white" class="nav-link" data-target="#navbarSupportedContent">CULTOS</a>
+						<a style="color: white" href="cultos.php" class="nav-link" data-target="#navbarSupportedContent">CULTOS</a>
 					</li>
 				    <li class="nav-item dropdown">
-				        <a style="color: white" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				        <a style="color: white" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 				         MINISTÉRIOS
 				        </a>
 				        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
