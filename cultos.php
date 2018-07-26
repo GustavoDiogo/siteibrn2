@@ -30,29 +30,27 @@
 
 <div class="top-div-informativa">
 	<div class="banner-informativa">
-		<img src="images/reciclados.jpg">
+		<img src="images/reciclados.jpg">	
+		<div class="descricao-box-informativa">
+			<div class="descricao-box-texto-informativa">
+		      <h3 align="middle">RECICLADOS</h3>
+				<p>
+				Reciclados é um culto voltado para os jovens da nossa igreja, que acontece todo <b>Sábado às 19:00</b>, ministrado comumente pelo Laurindo.
+				</p>
+		    </div>
+		</div>
 	</div>
-	<div class="descricao-box-informativa">
-		<div class="descricao-box-texto-informativa">
-	      <h3 align="middle">RECICLADOS</h3>
-			<p>
-			Reciclados é um culto voltado para os jovens da nossa igreja, que acontece todo <b>Sábado às 19:00</b>, ministrado comumente pelo Laurindo.
-			</p>
-	    </div>
-	</div>
-</div>
 
-<div class="top-div-informativa">
 	<div class="banner-informativa">
-		<img src="images/aligacao.jpg">
-	</div>
-	<div class="descricao-box-informativa">
-		<div class="descricao-box-texto-informativa">
-	      <h3 align="middle">A LIGAÇÃO</h3>
-			<p>
-			A ligação é um culto especial, que acontece uma vez por mês, ministrado pelo Seminarista Gabriel.
-			</p>			
-	    </div>
+		<img src="images/aligacao.jpg">	
+		<div class="descricao-box-informativa">
+			<div class="descricao-box-texto-informativa">
+		      <h3 align="middle">A LIGAÇÃO</h3>
+				<p>
+				A ligação é um culto especial, que acontece uma vez por mês, ministrado pelo Seminarista Gabriel.
+				</p>			
+		    </div>
+		</div>
 	</div>
 </div>
 

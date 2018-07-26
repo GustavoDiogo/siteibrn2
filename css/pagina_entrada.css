@@ -8,19 +8,6 @@
 .banner img{		
 	width: 100%;
 }
-.banner-menu{
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-	background-color: #087a8a;
-}
-.banner-menu a{
-	margin: 1em 1em 1em 1em;
-	flex-wrap: wrap;
-	text-decoration:none;
-	color: white;
-	font-weight: 600;
-}
 .descricao-box-entrada{
 	background-color: #087a8a;
 	width: 35%;
@@ -32,17 +19,13 @@
 	color: white;
 }
 
-@media (max-width: 991px){
+@media (max-width: 1200px){
 	.top-div-entrada{
 		flex-wrap: wrap;
 	}
 	.banner{
 		width: 100%;
 		margin: 0.5em 0.5em 0.5em 0.5em;
-	}
-	.banner-menu{
-		display: grid;
-		justify-items: center;
 	}
 	.descricao-box-entrada{
 		width: 100%;
@@ -53,19 +36,17 @@
 	display: flex;		
 }
 .banner-informativa{	    
-	width: 20%;
-	margin: 0.5em 0em 0.5em 0.5em;
+	width: 50%;
+	margin: 0.25em 0.5em 0em 0.5em;
 }
 .banner-informativa img{
 	width: 100%;
 }
 .descricao-box-informativa{
-	background-color: #087a8a;
-	width: 80%;
-	margin: 0.5em 0.5em 0.5em 0.5em;
+	background-color: #929396;	
 }
-.descricao-box-texto-informativa{
-	margin: 1em 1em 1em 1em;
+.descricao-box-texto-informativa{	
+	margin: 0em 1em 1em 1em;	
 	text-align: justify;
 	color: white
 }
@@ -75,10 +56,10 @@
 	}
 	.banner-informativa{
 		width: 100%;
-		margin: 0.5em 0.5em 0.5em 0.5em;			
+		margin: 0em 0.5em 0em 0.5em;			
 		justify-content: center;
 	}
 	.descricao-box-informativa{
 		width: 100%;
-	}					
+	}			
 }
