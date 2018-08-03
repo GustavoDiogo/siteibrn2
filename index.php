@@ -52,7 +52,9 @@
     <img src="images/missoes_thumb.jpg">
   </div>
   <div>
-    <img src="images/mulheres_thumb.jpg">
+    <a href="mulheres.php">
+      <img src="images/mulheres_thumb.jpg">
+    </a>
   </div>
   <div>
     <img src="images/represakids_thumb.jpg">
