@@ -1,12 +1,14 @@
 <?php include("header.php"); ?>
 
 <link rel="stylesheet" href="css/index.css">
+<link rel="stylesheet" type="text/css" href="css/pagina_entrada.css">
 
 <div id="index1">
   <div id="indexcarousel" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#indexcarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#indexcarousel" data-slide-to="1"></li> 
+      <li data-target="#indexcarousel" data-slide-to="1"></li>
+      <li data-target="#indexcarousel" data-slide-to="2"></li>  
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
@@ -14,6 +16,9 @@
       </div>
       <div class="carousel-item ">
         <img style="width: 1080px" class="d-block w-100" src="images/carousel_missoes.jpg">
+      </div>
+      <div class="carousel-item ">
+        <img style="width: 1080px" class="d-block w-100" src="images/carousel_represart.jpg">
       </div>
     </div>
     <a class="carousel-control-prev" href="#indexcarousel" role="button" data-slide="prev">
@@ -49,7 +54,9 @@
     <img src="images/louvor_thumb.jpg">
   </div>
   <div>
-    <img src="images/missoes_thumb.jpg">
+    <a href="missoes.php">
+      <img src="images/missoes_thumb.jpg">
+    </a>
   </div>
   <div>
     <a href="mulheres.php">

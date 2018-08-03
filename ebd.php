@@ -54,14 +54,12 @@
 						<p>
 						Pré-adolescentes: Matheus Cacuto
 						</p>
-					</div>
-					<div>
 						<p>
 						Adolescentes: Laura
 						</p>
 						<p>
 						Jovens: Laurindo e a Fernanda
-						</p>	
+						</p>
 					</div>
 					<div>			
 						<p>
@@ -70,12 +68,10 @@
 						<p>
 						Mulheres: Sandra Cacuto
 						</p>
-					</div>
-					<div>
 						<p>
 						Maior idade: Aniel
 						</p>
-					</div>
+					</div>			
 				</div>
 		    </div>
 		</div>

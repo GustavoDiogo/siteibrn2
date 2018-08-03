@@ -43,7 +43,7 @@
     		<img src="images/ibrn-logo-rodape-transparente.png">
     	</div>
     	<div id="ft-2" align="center">
-    		RUA SILVIA DE BARROS, 125 &#8226; PEDREIRA &#8226; CEP 04462-010 &#8226; SÃO PAULO,SP &#8226; <i class="fa fa-phone"></i>(11) 5611-6811    		
+    		RUA SILVIA DE BARROS, 125 &#8226; PEDREIRA &#8226; CEP 04462-010 &#8226; SÃO PAULO,SP &#8226; <i class="fa fa-phone"></i>(11) 3637-6811   		
     	</div>
         <div id="ft-3">
           <a style="text-decoration:none" href="https://www.facebook.com/IBRepresaNova/">
