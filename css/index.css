@@ -15,12 +15,42 @@
 	text-align: justify;
 	color: white;
 }
+
+#avisos{
+	display: flex;
+}
+#avisos img{
+	width: 230px;
+	margin: 0em 0.5em 0em 0.5em;
+}
+.aviso{
+	width: 100%;
+	background-color: #929396;
+	margin: 0em 0.5em 0em 0.5em;
+}
+.aviso-texto{
+	margin: 0.5em 0.5em 0.5em 0.5em;
+	text-align: justify;
+	color: white;
+}
+@media (max-width: 1200px){
+	#avisos{
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	#avisos img{
+		width: 128px;
+		margin: 0em 0em 0.5em 0em;      
+	}
+	.aviso{
+		margin: 0em 0.5em 0em 0.5em;
+	}
+}
+
 #ministerios{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-	text-align: center;
-	color: #ff732d;
 	margin: 0.5em 0.5em 0.5em 0.5em;
 }
 #ministerios img{
@@ -28,7 +58,7 @@
 	margin: 1em 1em 1em 1em;
 }
 
-@media (max-width: 991px){
+@media (max-width: 1200px){
 	#index1{
 		flex-wrap: wrap;
 	}

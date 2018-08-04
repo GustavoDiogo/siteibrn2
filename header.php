@@ -47,12 +47,12 @@
 				         MINISTÉRIOS
 				        </a>
 				        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-				          <a class="dropdown-item" href="#">HOMENS</a>
+				          <a class="dropdown-item" href="homens.php">HOMENS</a>
 				          <a class="dropdown-item" href="#">JOVENS</a>
 				          <a class="dropdown-item" href="#">LOUVOR</a>
 				          <a class="dropdown-item" href="missoes.php">MISSÕES</a>				          
 				          <a class="dropdown-item" href="mulheres.php">MULHERES</a>
-				          <a class="dropdown-item" href="#">REPRESA KIDS</a>			          
+				          <a class="dropdown-item" href="kids.php">REPRESA KIDS</a>			          
 				          <a class="dropdown-item" href="#">REPRESART</a>				          
 				        </div>
 				    </li>

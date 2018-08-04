@@ -37,13 +37,11 @@
 }
 .banner-informativa{	    
 	width: 50%;
-	margin: 0.25em 0.5em 0em 0.5em;
+	background-color: #929396;
+	margin: 0.25em 0.5em 0.5em 0.5em;
 }
 .banner-informativa img{
 	width: 100%;
-}
-.descricao-box-informativa{
-	background-color: #929396;	
 }
 .descricao-box-texto-informativa{	
 	margin: 0em 1em 1em 1em;	
@@ -56,7 +54,7 @@
 	}
 	.banner-informativa{
 		width: 100%;
-		margin: 0em 0.5em 0em 0.5em;			
+		margin: 0.5em 0.5em 0.5em 0.5em;			
 		justify-content: center;
 	}
 	.descricao-box-informativa{

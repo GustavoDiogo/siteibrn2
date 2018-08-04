@@ -1,7 +1,6 @@
 <?php include("header.php"); ?>
 
 <link rel="stylesheet" href="css/index.css">
-<link rel="stylesheet" type="text/css" href="css/pagina_entrada.css">
 
 <div id="index1">
   <div id="indexcarousel" class="carousel slide" data-ride="carousel">
@@ -40,12 +39,63 @@
   </div>
 </div>
 
+<div id="avisos">
+  <div>
+    <img src="images/avisos.jpg">
+  </div>
+
+  <div class="aviso" style="background-color: #ff6011">
+    <div class="aviso-texto">
+      <h6 align="middle">AÇÃO SOCIAL</h6>
+      <p>Traga alimentos não perecíveis para o suprimento de cestas básicas ou faça contribuição em espécie identificando no envelope a designação de sua oferta.</p>
+    </div>
+  </div>
+
+  <div class="aviso">
+    <div class="aviso-texto">
+      <h6 align="middle">MUDANÇA DO NÚMERO DA IGREJA</h6>
+      <p>Informamos a todos que o número de telefone da igreja mudou, agora passaremos atender por (11) 3637-6811.</p>
+    </div>
+  </div>
+
+  <div class="aviso" style="background-color: #ff6011">
+    <div class="aviso-texto">
+      <h6 align="middle">CLASSE DE BATISMO</h6>
+      <p>Em Agosto daremos início a nova class de batismo, aguarde mais informações.</p>
+    </div>
+  </div>
+
+  <div class="aviso">
+    <div class="aviso-texto">
+      <h6 align="middle">CONFRATERNIZAÇÃO EM FAMÍLIAS</h6>
+      <p>Continuamos no proósito de orarmos por nosssas famílias.</p>
+      <p>Convidamos todos os responsáveis e líderes de famílias a participarem e proporcionarem esse momento de comunhão</p>
+    </div>
+  </div>
+
+  <div class="aviso" style="background-color: #ff6011">
+    <div class="aviso-texto">
+      <h6 align="middle">MUTIRÃO DE LIMPEZA</h6>
+      <p>No segundo sábado de Agosto, dia 11, teremos o mutirão de limpeza do templo.</p>
+    </div>
+  </div>
+
+  <div class="aviso">
+    <div class="aviso-texto">
+      <h6 align="middle">FORMATURA DAS MULHERES</h6>
+      <p>Hoje no culto a noite teremos a formatura das mulheres que participaram do nosso curso Curadas para Curar.</p>
+    </div>
+  </div>
+</div>
+
 <div id="ministerios">
   <div>
     <img src="images/acaosocial_thumb.jpg">    
   </div>
   <div>
-    <img src="images/homens_thumb.jpg">    
+    <a href="homens.php">
+      <img src="images/homens_thumb.jpg">
+    </a>    
   </div>
   <div>
     <img src="images/jovens_thumb.jpg">
@@ -64,7 +114,9 @@
     </a>
   </div>
   <div>
-    <img src="images/represakids_thumb.jpg">
+    <a href="kids.php">
+      <img src="images/represakids_thumb.jpg">
+    </a>
   </div>
   <div>
     <img src="images/represart_thumb.jpg">
