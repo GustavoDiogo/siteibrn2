@@ -90,7 +90,9 @@
 
 <div id="ministerios">
   <div>
-    <img src="images/acaosocial_thumb.jpg">    
+    <a href="acaosocial.php">
+      <img src="images/acaosocial_thumb.jpg">
+    </a>    
   </div>
   <div>
     <a href="homens.php">

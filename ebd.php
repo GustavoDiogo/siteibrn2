@@ -30,66 +30,64 @@
 
 <div class="top-div-informativa">
 	<div class="banner-informativa">
-		<img src="images/ebd.jpg">	
+		<img src="images/salas.jpg">
+
 		<div class="descricao-box-informativa">
 			<div class="descricao-box-texto-informativa">
-				<h3 align="middle">SALAS</h3>
-				<style type="text/css">
-					#salas{
-						display: flex;	      			
-						justify-content: space-between;
-					}
-					@media (max-width: 1200px){
-						#salas{
-							display: grid;
-							justify-content: center;
-						}
-					}  	
-				</style>
-				<div id="salas">
-					<div>
-						<p>
-							Crianças: Tia Silvia
-						</p>
-						<p>
-							Pré-adolescentes: Matheus Cacuto
-						</p>
-						<p>
-							Adolescentes: Laura
-						</p>
-						<p>
-							Jovens: Laurindo e a Fernanda
-						</p>
-					</div>
-					<div>			
-						<p>
-							Homens: Pr. Jorge Cacuto
-						</p>
-						<p>
-							Mulheres: Sandra Cacuto
-						</p>
-						<p>
-							Maior idade: Aniel
-						</p>
-					</div>			
-				</div>
+				<h3 align="middle">SALAS</h3>				
+				<p>
+					As salas da Escola Bíblica Dominical são divididas por idade. Em
+					cada sala temos de um a dois professores capacitados para o
+					ensino bíblico. O período de estudo se inicia no <b>domingo às 9:00</b> e é dividido
+					em dois momentos com um intervalo para tomarmos um café
+					da manhã.
+				</p>					
+				<p>
+					Crianças: Tia Silvia
+				</p>
+				<p>
+					Pré-adolescentes: Matheus Cacuto
+				</p>
+				<p>
+					Adolescentes: Laura
+				</p>
+				<p>
+					Jovens: Laurindo e a Fernanda
+				</p>
+
+				<p>
+					Homens: Pr. Jorge Cacuto
+				</p>
+				<p>
+					Mulheres: Sandra Cacuto
+				</p>
+				<p>
+					Maior idade: Aniel
+				</p>
+				
 			</div>
 		</div>
 	</div>
 
 	<div class="banner-informativa">
-		<img src="images/juntese.jpg">	
+		<img src="images/descobrindodeus.jpg">	
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">JUNTE-SE</h3>
+			<h3 align="middle">DESCOBRINDO DEUS</h3>
 			<p>
-				Em cada estudo da Escola Bíblica Dominical você descobre e aprende ainda mais sobre quem é Deus e a Sua Palavra. Você pode também tirar as suas dúvidas, como por exemplo: Quais são os nomes dos 12 discípulos de Jesus? Quantos livros a Bíblia é composta? Por que Deus permite que passemos por dificuldades? Como era a cultura na época de Jesus? Qual a importância de guardar o sábado?
+				Em cada estudo da Escola Bíblica Dominical você descobre e
+				aprende ainda mais sobre quem é Deus e a Sua Palavra. Você
+				pode também tirar as suas dúvidas, como por exemplo: Quais
+				são os nomes dos 12 discípulos de Jesus? Quantos livros a
+				Bíblia é composta? Por que Deus permite que passemos por
+				dificuldades? Como era a cultura na época de Jesus? Qual a
+				importância de guardar o sábado?
 			</p>
 			<p>
-				Junte-se a nós e venha participar da Escola Bíblica Dominical, independente se você faz parte ou não da membresia da nossa igreja, se você quer vir esporadicamente ou quer frequentar assiduamente. Você será bem vindo.
-			</p>
-			<p style="font-style: italic">			
-				Jesus respondeu: "Está escrito: ‘Nem só de pão viverá o homem, mas de toda palavra que procede da boca de Deus". (Mateus 4:4)
+				Dentre outras perguntas que você ainda não obteve resposta,
+				apresentamos a oportunidade de você descobrir muitas
+				coisas, e tirar muitas dúvidas por meio da nossa Escola Bíblica
+				Dominical. 
 			</p>
 		</div>
 		
@@ -100,6 +98,11 @@
 		
 		<div class="descricao-box-texto-informativa">
 			<h3 align="middle">ALIMENTAÇÃO PARA O ESPÍRITO</h3>
+			<p style="font-style: italic">
+				Jesus respondeu: “Está escrito: ‘Nem só de pão viverá o homem,
+				mas de toda palavra que procede da boca de Deus”. (Mateus
+				4:4) 
+			</p>
 			<p>
 				Além dos alimentos para o corpo, precisamos alimentar o espírito. Desse modo, entendemos que o cuidado da vida espiritual é tão necessário quanto os alimentos cotidianos. Sendo de seu interesse, estamos dispostos, sem qualquer compromisso, a estudarmos juntos sobre esses alimentos espirituais.
 			</p>

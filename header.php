@@ -34,19 +34,17 @@
 						<a style="color: white" href="igreja.php" class="nav-link" data-target="#navbarSupportedContent">A IGREJA</a>
 					</li>
 					<li class="nav-item">
-						<a style="color: white" href="ebd.php" class="nav-link" data-target="#navbarSupportedContent">ESCOLA BÍBLICA</a>
-					</li>
-					<li class="nav-item">
-						<a style="color: white" class="nav-link" data-target="#navbarSupportedContent">DEVOCIONAIS</a>
-					</li>
-					<li class="nav-item">
 						<a style="color: white" href="cultos.php" class="nav-link" data-target="#navbarSupportedContent">CULTOS</a>
+					</li>
+					<li class="nav-item">
+						<a style="color: white" href="ebd.php" class="nav-link" data-target="#navbarSupportedContent">ESCOLA BÍBLICA</a>
 					</li>
 				    <li class="nav-item dropdown">
 				        <a style="color: white" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 				         MINISTÉRIOS
 				        </a>
 				        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+				          <a class="dropdown-item" href="acaosocial.php">AÇÃO SOCIAL</a>
 				          <a class="dropdown-item" href="homens.php">HOMENS</a>
 				          <a class="dropdown-item" href="#">JOVENS</a>
 				          <a class="dropdown-item" href="#">LOUVOR</a>
