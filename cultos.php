@@ -52,6 +52,18 @@
 		</div>
 	</div>
 
+	<div class="banner-informativa">
+		<img src="images/cafedoshomens.jpg">	
+		
+		<div class="descricao-box-texto-informativa">
+			<h3 align="middle">CAFÉ DOS HOMENS</h3>
+			<p>
+				O Café dos Homens é um momento de comunhão e estudo juntamente a um café agradável. Visamos
+				estudar as responsabilidades e deveres de um homem cristão.
+			</p>			
+		</div>
+	</div>
+
 </div>
 
 <?php include("footer.php"); ?>
