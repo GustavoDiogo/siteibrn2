@@ -46,7 +46,7 @@
 				        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 				          <a class="dropdown-item" href="acaosocial.php">AÇÃO SOCIAL</a>
 				          <a class="dropdown-item" href="homens.php">HOMENS</a>
-				          <a class="dropdown-item" href="#">JOVENS</a>
+				          <a class="dropdown-item" href="jovens.php">JOVENS</a>
 				          <a class="dropdown-item" href="#">LOUVOR</a>
 				          <a class="dropdown-item" href="missoes.php">MISSÕES</a>				          
 				          <a class="dropdown-item" href="mulheres.php">MULHERES</a>

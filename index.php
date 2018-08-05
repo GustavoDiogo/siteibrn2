@@ -112,7 +112,9 @@
     </a>    
   </div>
   <div>
-    <img src="images/jovens_thumb.jpg">
+    <a href="jovens.php">
+      <img src="images/jovens_thumb.jpg">
+    </a>
   </div>
   <div>
     <img src="images/louvor_thumb.jpg">
