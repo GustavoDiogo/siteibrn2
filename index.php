@@ -46,46 +46,58 @@
 
   <div class="aviso" style="background-color: #ff6011">
     <div class="aviso-texto">
-      <h6 align="middle">AÇÃO SOCIAL</h6>
-      <p>Traga alimentos não perecíveis para o suprimento de cestas básicas ou faça contribuição em espécie identificando no envelope a designação de sua oferta.</p>
+      <h6 align="middle">DIA DOS PAIS</h6>
+      <p>
+        No próximo domingo dia 12/08, estaremos comemorando o dia dos pais. O ministério da comunicação convida a todos os pais a fazermos uma foto coletiva.
+      </p>
     </div>
   </div>
 
   <div class="aviso">
+    <div class="aviso-texto">
+      <h6 align="middle">CAFÉ DOS HOMENS</h6>
+      <p>
+        Está chegando mais uma oportunidade de ter aquele momento de conversa e estudo, tomando um café agradável. Sábado dia 18/08 às 9:00.
+      </p>
+    </div>
+  </div>
+
+  <div class="aviso" style="background-color: #ff6011">
     <div class="aviso-texto">
       <h6 align="middle">MUDANÇA DO NÚMERO DA IGREJA</h6>
-      <p>Informamos a todos que o número de telefone da igreja mudou, agora passaremos atender por (11) 3637-6811.</p>
+      <p>
+        Informamos a todos que o número de telefone da igreja mudou, agora passaremos atender por (11) 3637-6811.
+        </p>
     </div>
   </div>
 
-  <div class="aviso" style="background-color: #ff6011">
+  <div class="aviso">
     <div class="aviso-texto">
       <h6 align="middle">CLASSE DE BATISMO</h6>
-      <p>Em Agosto daremos início a nova class de batismo, aguarde mais informações.</p>
-    </div>
-  </div>
-
-  <div class="aviso">
-    <div class="aviso-texto">
-      <h6 align="middle">CONFRATERNIZAÇÃO EM FAMÍLIAS</h6>
-      <p>Continuamos no proósito de orarmos por nosssas famílias.</p>
-      <p>Convidamos todos os responsáveis e líderes de famílias a participarem e proporcionarem esse momento de comunhão</p>
+      <p>
+        Em Agosto daremos início a nova class de batismo, aguarde mais informações.
+      </p>
     </div>
   </div>
 
   <div class="aviso" style="background-color: #ff6011">
     <div class="aviso-texto">
-      <h6 align="middle">MUTIRÃO DE LIMPEZA</h6>
-      <p>No segundo sábado de Agosto, dia 11, teremos o mutirão de limpeza do templo.</p>
+      <h6 align="middle">AÇÃO SOCIAL</h6>
+      <p>
+        Traga alimentos não perecíveis para o suprimento de cestas básicas ou faça contribuição em espécie identificando no envelope a designação de sua oferta.
+      </p>
     </div>
   </div>
 
   <div class="aviso">
     <div class="aviso-texto">
-      <h6 align="middle">FORMATURA DAS MULHERES</h6>
-      <p>Hoje no culto a noite teremos a formatura das mulheres que participaram do nosso curso Curadas para Curar.</p>
+      <h6 align="middle">MUTIRÃO DE LIMPEZA</h6>
+      <p>
+        A igreja tem a necessidade de nossa ajuda no que se refere à limpeza e manutenção do templo e suas dependências.  Por essa razão o Mutirão agendado, será remarcado. Fique atento!
+      </p>
     </div>
   </div>
+
 </div>
 
 <div id="ministerios">

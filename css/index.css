@@ -20,13 +20,13 @@
 	display: flex;
 }
 #avisos img{
-	width: 230px;
+	width: 200px;
 	margin: 0em 0.5em 0em 0.5em;
 }
 .aviso{
 	width: 100%;
 	background-color: #929396;
-	margin: 0em 0.5em 0em 0.5em;
+	margin: 0em 0.5em 0em 0em;
 }
 .aviso-texto{
 	margin: 0.5em 0.5em 0.5em 0.5em;
