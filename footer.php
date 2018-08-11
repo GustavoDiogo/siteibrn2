@@ -1,20 +1,20 @@
 <style type="text/css">
     #ft-1{
-      padding: 0.5em 0.5em 0.5em 0.5em;
+      margin: 0.5em 0.5em 0.5em 0.5em;
     }
     #ft-1 img{
       width: 75px;
     }
     #ft-2{
-      padding: 1.5em 0.5em 0.5em 0.5em;
+      margin: 1.5em 0.5em 0.5em 0.5em;
       color: white;
     }
     #ft-3{
-      padding: 1.5em 0em 0em 0em;
+      margin: 1.5em 0em 0em 0em;
     }
     #ft-3 a{
       color: white;
-      padding: 0.75em 0.75em 0em 0.75em;
+      margin: 0.75em 0.75em 0em 0.75em;
     }
 
 	@media (max-width: 991px){
@@ -23,37 +23,36 @@
 		}
 		#ft-1 img{
 			width: 80px;
+      margin: 0em 0em 0.75em 0em;
 		}
-    #ft-2{
-      margin: 0 auto;
+    #ft-2{      
       font-size: 13px;
-      padding: 0em 0em 1em 0em;
+      margin: 0em 0em 1em 0em;
     }
-    #ft-3{
-      margin: 0 auto;
-      padding: 0em 0em 0em 0em;
+    #ft-3{     
+      margin: 0em 0em 0.75em 0em;
     }
 	}
 </style>
 
 <footer>
   <div style="background-color: #ff6011">
-    <div style="display: flex;flex-wrap: wrap" class="container">
+    <div style="display: flex;flex-wrap: wrap;justify-content: center">
     	<div id="ft-1" align="left">
     		<img src="images/ibrn-logo-rodape-transparente.png">
     	</div>
     	<div id="ft-2" align="center">
-    		RUA SILVIA DE BARROS, 125 &#8226; PEDREIRA &#8226; CEP 04462-010 &#8226; SÃO PAULO,SP &#8226; <i class="fa fa-phone"></i>(11) 3637-6811   		
+    		RUA SILVIA DE BARROS, 125 &#8226; PEDREIRA &#8226; CEP 04462-010 &#8226; SÃO PAULO,SP &#8226; <i class="fas fa-phone"></i> (11) 3637-6811   		
     	</div>
         <div id="ft-3">
           <a style="text-decoration:none" href="https://www.facebook.com/IBRepresaNova/">
-            <i class="fa fa-facebook white-text"></i>
+            <i class="fab fa-facebook-f"> </i>
           </a>
           <a style="text-decoration:none" href="https://www.instagram.com/ibrepresanova/">
-            <i class="fa fa-instagram white-text"></i>
+            <i class="fab fa-instagram"> </i>
           </a>
           <a style="text-decoration:none" href="https://www.youtube.com/channel/UCvNtPmmcjh_2N4hZYZruawA">
-            <i class="fa fa-youtube white-text"></i>
+            <i class="fab fa-youtube"></i>
           </a>
         </div>        
       </div> 

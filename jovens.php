@@ -30,6 +30,12 @@
 		
 		<div class="descricao-box-texto-informativa">
 			<h5 align="middle">QUINTAL DOS FUNDOS</h5>
+			<p>
+				Levando em conta a responsabilidade social da igreja o departamento da juventude, desenvolveu um projeto evangelístico, executados no espaço do fundo da igreja, devidamente preparado com foco em esportes e treinos funcionais para a comunidade.
+			</p>
+			<p>
+				Por outro lado o mesmo também é um lugar onde os jovens mantém um contacto informal com outros jovens através de atividades devidamente e intencionalmente pensado visando o alcance dessa vidas pelo evangelho.
+			</p>
 		</div>
 		
 	</div>

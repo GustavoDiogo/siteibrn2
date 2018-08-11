@@ -5,7 +5,20 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+	<style type="text/css">
+		#header-logo{
+			margin: 0em 2em 0em 2em;
+		}
+		.nav-item{				
+			font-weight: 600;
+		}
+		@media (max-width: 991px){
+			#header-logo{
+				margin: 0 auto;
+			}
+		}
+	</style>
 
 	<title>IB Represa Nova</title>
 
@@ -14,19 +27,6 @@
 		<button id="navbutton" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
-		<style type="text/css">
-			#header-logo{
-				margin: 0em 2em 0em 2em;
-			}
-			.nav-item{				
-				font-weight: 600;
-			}
-			@media (max-width: 991px){
-				#header-logo{
-					margin: 0 auto;
-				}
-			}
-		</style>
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<div>
 				<ul class="navbar-nav mr-auto">
@@ -42,21 +42,21 @@
 					<li class="nav-item">
 						<a style="color: white" href="ebd.php" class="nav-link" data-target="#navbarSupportedContent">ESCOLA BÍBLICA</a>
 					</li>
-				    <li class="nav-item dropdown">
-				        <a style="color: white" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-				         MINISTÉRIOS
-				        </a>
-				        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-				          <a class="dropdown-item" href="acaosocial.php">AÇÃO SOCIAL</a>
-				          <a class="dropdown-item" href="homens.php">HOMENS</a>
-				          <a class="dropdown-item" href="jovens.php">JOVENS</a>
-				          <a class="dropdown-item" href="#">LOUVOR</a>
-				          <a class="dropdown-item" href="missoes.php">MISSÕES</a>				          
-				          <a class="dropdown-item" href="mulheres.php">MULHERES</a>
-				          <a class="dropdown-item" href="kids.php">REPRESA KIDS</a>			          
-				          <a class="dropdown-item" href="represart.php">REPRESART</a>				          
-				        </div>
-				    </li>
+					<li class="nav-item dropdown">
+						<a style="color: white" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							MINISTÉRIOS
+						</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+							<a class="dropdown-item" href="acaosocial.php">AÇÃO SOCIAL</a>
+							<a class="dropdown-item" href="homens.php">HOMENS</a>
+							<a class="dropdown-item" href="jovens.php">JOVENS</a>
+							<a class="dropdown-item" href="#">LOUVOR</a>
+							<a class="dropdown-item" href="missoes.php">MISSÕES</a>				          
+							<a class="dropdown-item" href="mulheres.php">MULHERES</a>
+							<a class="dropdown-item" href="kids.php">REPRESA KIDS</a>			          
+							<a class="dropdown-item" href="represart.php">REPRESART</a>				          
+						</div>
+					</li>
 					<li class="nav-item">
 						<a style="color: white" class="nav-link" data-target="#navbarSupportedContent">CONTATO</a>
 					</li>
