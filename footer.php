@@ -47,10 +47,10 @@
     	</div>
         <div id="ft-3">
           <a style="text-decoration:none" href="https://www.facebook.com/IBRepresaNova/">
-            <i class="fa fa-facebook white-text"> </i>
+            <i class="fa fa-facebook white-text"></i>
           </a>
           <a style="text-decoration:none" href="https://www.instagram.com/ibrepresanova/">
-            <i class="fa fa-instagram white-text"> </i>
+            <i class="fa fa-instagram white-text"></i>
           </a>
           <a style="text-decoration:none" href="https://www.youtube.com/channel/UCvNtPmmcjh_2N4hZYZruawA">
             <i class="fa fa-youtube white-text"></i>
