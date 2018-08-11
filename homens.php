@@ -8,7 +8,7 @@
 	</div>
 	<div class="descricao-box-entrada">
 		<div class="descricao-box-texto-entrada">
-			<h3 align="middle">HOMENS</h3>
+			<h5 align="middle">HOMENS</h5>
 			<p style="font-style: italic;">
 				“Porque o Filho do homem veio buscar e salvar o que se havia
 				perdido. Lucas”. 19:10
@@ -42,7 +42,7 @@
 		<img src="images/sacerdotes.jpg">	
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">SACERDOTES</h3>		
+			<h5 align="middle">SACERDOTES</h5>		
 			<p>
 				Nossa visão é almejar, construir, conquistar e ser bem sucedido
 				no que fazemos, e a eduação cristã de nossos filhos, familiares
@@ -75,7 +75,7 @@
 		<img src="images/nossaluta_homens.jpg">		
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">NOSSA LUTA</h3>
+			<h5 align="middle">NOSSA LUTA</h5>
 			<p>
 				Nosso esforço é agir em prol do crescimento da palavra
 				de Deus com apoio mútuo na execução de estratégias
@@ -110,7 +110,7 @@
 		<img src="images/nossasoracoes_homens.jpg">
 
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">NOSSAS ORAÇÕES</h3>
+			<h5 align="middle">NOSSAS ORAÇÕES</h5>
 			<p>
 				Oramos para que a vontade de Deus seja cumprida na nossa
 				vida e para que a misericórdia Dele sempre esteja presente,

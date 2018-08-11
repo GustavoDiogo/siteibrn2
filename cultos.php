@@ -8,7 +8,7 @@
 	</div>
 	<div class="descricao-box-entrada">
 		<div class="descricao-box-texto-entrada">
-			<h3 align="middle">CULTOS</h3>
+			<h5 align="middle">CULTOS</h5>
 			<p>
 				Nossa igreja conta com dois cultos semanais principais.
 				<li>
@@ -33,7 +33,7 @@
 		<img src="images/reciclados.jpg">	
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">RECICLADOS</h3>
+			<h5 align="middle">RECICLADOS</h5>
 			<p>
 				Reciclados é um culto voltado para os jovens da nossa igreja, que acontece todo <b>Sábado às 19:00</b>, ministrado comumente pelo Laurindo.
 			</p>
@@ -45,7 +45,7 @@
 		<img src="images/aligacao.jpg">	
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">A LIGAÇÃO</h3>
+			<h5 align="middle">A LIGAÇÃO</h5>
 			<p>
 				A ligação é um culto especial, que acontece uma vez por mês, ministrado pelo Seminarista Gabriel.
 			</p>			
@@ -56,7 +56,7 @@
 		<img src="images/cafedoshomens.jpg">	
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">CAFÉ DOS HOMENS</h3>
+			<h5 align="middle">CAFÉ DOS HOMENS</h5>
 			<p>
 				O Café dos Homens é um momento de comunhão e estudo juntamente a um café agradável. Visamos
 				estudar as responsabilidades e deveres de um homem cristão.

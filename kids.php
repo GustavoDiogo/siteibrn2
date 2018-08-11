@@ -8,7 +8,7 @@
 	</div>
 	<div class="descricao-box-entrada">
 		<div class="descricao-box-texto-entrada">
-			<h3 align="middle">REPRESA KIDS</h3>
+			<h5 align="middle">REPRESA KIDS</h5>
 			<p style="font-style: italic;">
 				“Educa a criança no caminho em que deve andar; e até
 				quando envelhecer não se desviará dele”. - Provérbios 22:6
@@ -32,7 +32,7 @@
 		<img src="images/ebdkids.jpg">	
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">EBD KIDS</h3>		
+			<h5 align="middle">EBD KIDS</h5>		
 			<p style="font-style: italic">
 				“Acima de tudo, guarde o seu coração, pois dele depende toda
 				a sua vida.” Provérbios 4.23
@@ -63,7 +63,7 @@
 		<img src="images/responsaveiskids.jpg">		
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">RESPONSÁVEIS</h3>
+			<h5 align="middle">RESPONSÁVEIS</h5>
 			<p>
 				O ministério infantil tem turmas que trabalham com as
 				crianças de acordo com a sua idade. A professora Janete
@@ -88,7 +88,7 @@
 		<img src="images/atividadesinfantis.jpg">
 
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">ATIVIDADES INFANTIS</h3>
+			<h5 align="middle">ATIVIDADES INFANTIS</h5>
 			<p>
 				Sempre que possível, envolvemos as crianças nas em
 				programações especiais, tais como evento do dia dos pais, dia

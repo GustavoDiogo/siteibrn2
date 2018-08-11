@@ -8,7 +8,7 @@
 	</div>
 	<div class="descricao-box-entrada">
 		<div class="descricao-box-texto-entrada">
-			<h3 align="middle">ESCOLA BIBLICA DOMINICAL</h3>
+			<h5 align="middle">ESCOLA BIBLICA DOMINICAL</h5>
 			<p>
 				A Escola Bíblica acontece aos <b>domingos, com início às 9:00</b>. O período de estudo é dividido em dois momentos, com um intervalo para tomarmos um café da manhã. Os estudos abordados têm como finalidade trazer mais conhecimento da Palavra de Deus.
 			</p>
@@ -34,7 +34,7 @@
 
 		<div class="descricao-box-informativa">
 			<div class="descricao-box-texto-informativa">
-				<h3 align="middle">SALAS</h3>				
+				<h5 align="middle">SALAS</h5>				
 				<p>
 					As salas da Escola Bíblica Dominical são divididas por idade. Em
 					cada sala temos de um a dois professores capacitados para o
@@ -73,7 +73,7 @@
 		<img src="images/descobrindodeus.jpg">	
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">DESCOBRINDO DEUS</h3>
+			<h5 align="middle">DESCOBRINDO DEUS</h5>
 			<p>
 				Em cada estudo da Escola Bíblica Dominical você descobre e
 				aprende ainda mais sobre quem é Deus e a Sua Palavra. Você
@@ -97,7 +97,7 @@
 		<img src="images/alimentacaoespirito.jpg">	
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">ALIMENTAÇÃO PARA O ESPÍRITO</h3>
+			<h5 align="middle">ALIMENTAÇÃO PARA O ESPÍRITO</h5>
 			<p style="font-style: italic">
 				Jesus respondeu: “Está escrito: ‘Nem só de pão viverá o homem,
 				mas de toda palavra que procede da boca de Deus”. (Mateus

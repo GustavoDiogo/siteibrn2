@@ -8,7 +8,7 @@
 	</div>
 	<div class="descricao-box-entrada">
 		<div class="descricao-box-texto-entrada">
-			<h3 align="middle">MISSÕES</h3>
+			<h5 align="middle">MISSÕES</h5>
 			<p style="font-style: italic;">
 				“porque “todo aquele que invocar o nome do Senhor será
 				salvo”. Como, pois, invocarão aquele em quem não creram?
@@ -44,7 +44,7 @@
 
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">DISCIPULAR AS NAÇÕES</h3>
+			<h5 align="middle">DISCIPULAR AS NAÇÕES</h5>
 			<p style="font-style: italic">
 				“Ide, portanto, fazei discípulos de todas as nações, batizandoos
 				em nome do Pai, e do Filho, e do Espírito Santo; ensinandoos
@@ -70,7 +70,7 @@
 		<img src="images/compaixao.jpg">		
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">COMPAIXÃO</h3>		   
+			<h5 align="middle">COMPAIXÃO</h5>		   
 			<p style="font-style: italic">
 				“Ao ver as multidões, teve compaixão delas, porque estavam
 				aflitas e desamparadas, como ovelhas sem pastor.” Mateus 9.36.
@@ -98,7 +98,7 @@
 		<img src="images/expandir.jpg">
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">EXPANDIR</h3>
+			<h5 align="middle">EXPANDIR</h5>
 			<p style="font-style: italic">
 				“A seara é grande, mas poucos os ceifeiros. Rogai, pois, ao
 				Senhor que mande mais trabalhadores para a sua seara”.

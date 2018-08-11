@@ -8,7 +8,7 @@
 	</div>
 	<div class="descricao-box-entrada">
 		<div class="descricao-box-texto-entrada">
-			<h3 align="middle">JOVENS</h3>
+			<h5 align="middle">JOVENS</h5>
 				
 		</div>    
 	</div>
@@ -20,7 +20,7 @@
 
 		<div class="descricao-box-informativa">
 			<div class="descricao-box-texto-informativa">
-				<h3 align="middle">AR LIVRE</h3>			
+				<h5 align="middle">AR LIVRE</h5>			
 			</div>
 		</div>
 	</div>
@@ -29,7 +29,7 @@
 		<img src="images/quintaldosfundos.jpg">	
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">QUINTAL DOS FUNDOS</h3>
+			<h5 align="middle">QUINTAL DOS FUNDOS</h5>
 		</div>
 		
 	</div>
@@ -38,7 +38,7 @@
 		<img src="images/acampamentos.jpg">	
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">ACAMPAMENTOS</h3>				
+			<h5 align="middle">ACAMPAMENTOS</h5>				
 		</div>
 		
 	</div>

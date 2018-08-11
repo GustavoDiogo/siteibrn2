@@ -19,7 +19,7 @@
 	color: white;
 }
 
-@media (max-width: 1200px){
+@media (max-width: 1366px){
 	.top-div-entrada{
 		flex-wrap: wrap;
 	}
@@ -37,7 +37,7 @@
 }
 .banner-informativa{	    
 	width: 50%;
-	background-color: #929396;
+	background-color: #51576b;
 	margin: 0.25em 0.5em 0.5em 0.5em;
 }
 .banner-informativa img{

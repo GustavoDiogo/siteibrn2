@@ -10,11 +10,14 @@
 	<title>IB Represa Nova</title>
 
 	<nav class="navbar navbar-expand-lg navbar-light fixed-top" style="background-color: #ff6011">
-		<a class="navbar-brand" href="index.php" style="padding-left: 2em;padding-right: 2em"><img id="header-logo" style="width: 175px;" src="images/ibrn-logo-transparente.png"></a>
+		<a class="navbar-brand" href="index.php" style="margin: 0 auto;"><img id="header-logo" style="width: 135px;" src="images/ibrn-logo-transparente.png"></a>
 		<button id="navbutton" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
 		<style type="text/css">
+			#header-logo{
+				margin: 0em 2em 0em 2em;
+			}
 			.nav-item{				
 				font-weight: 600;
 			}
@@ -51,7 +54,7 @@
 				          <a class="dropdown-item" href="missoes.php">MISSÕES</a>				          
 				          <a class="dropdown-item" href="mulheres.php">MULHERES</a>
 				          <a class="dropdown-item" href="kids.php">REPRESA KIDS</a>			          
-				          <a class="dropdown-item" href="#">REPRESART</a>				          
+				          <a class="dropdown-item" href="represart.php">REPRESART</a>				          
 				        </div>
 				    </li>
 					<li class="nav-item">

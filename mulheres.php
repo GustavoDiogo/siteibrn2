@@ -8,7 +8,7 @@
 	</div>
 	<div class="descricao-box-entrada">
 		<div class="descricao-box-texto-entrada">
-			<h3 align="middle">FILHAS DO REI</h3>
+			<h5 align="middle">FILHAS DO REI</h5>
 			<p style="font-style: italic">
 				"Enganosa é a beleza e vã a formosura, mas a mulher que 
 				teme ao Senhor, essa sim será louvada". Provérbios 31:30
@@ -38,7 +38,7 @@
 		<img src="images/coralfeminino.jpg">	
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">CORAL FEMININO</h3>
+			<h5 align="middle">CORAL FEMININO</h5>
 			<p>
 				Um dos projetos que o ministério feminino quer desenvolver 
 				é um coral para frequentes apresentações. Fizemos algumas 
@@ -60,7 +60,7 @@
 		<img src="images/nossaluta_mulheres.jpg">	
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">NOSSA LUTA</h3>
+			<h5 align="middle">NOSSA LUTA</h5>
 			<p>
 				Nosso grupo busca se fortalecer mutuamente no Senhor, 
 				dividir as dificuldades umas com as outras e contribuir para 
@@ -89,7 +89,7 @@
 		<img src="images/nossasoracoes_mulheres.jpg">	
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">NOSSAS ORAÇÕES</h3>
+			<h5 align="middle">NOSSAS ORAÇÕES</h5>
 			<p>
 				Alegrem-se sempre. Orem continuamente. Deem graças em todas 
 				as circunstâncias, pois esta é a vontade de Deus para vocês em 

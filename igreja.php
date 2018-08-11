@@ -8,7 +8,7 @@
 	</div>
 	<div class="descricao-box-entrada">
 		<div class="descricao-box-texto-entrada">
-			<h3 align="middle">IGREJA BATISTA REPRESA NOVA</h3>
+			<h5 align="middle">IGREJA BATISTA REPRESA NOVA</h5>
 			<p style="font-style: italic;">
 				“Pois Ele é a nossa paz, o qual de ambos fez um e destruiu a
 				barreira, o muro da inimizade” (Efésios 2.14).
@@ -40,7 +40,7 @@
 		<img src="images/pastorcacuto.jpg">	
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">PR. JORGE FRANCISCO CACUTO</h3>
+			<h5 align="middle">PR. JORGE FRANCISCO CACUTO</h5>
 			<h6 align="middle">(Pastor Sênior)</h6>
 			<p>
 				Jorge Cacuto é angolano de nascimento e brasileiro por opção. Casado com a Sandra Cacuto e pai de Matheus e Quézia Cacuto. Jorge teve o privilégio de desde cedo ouvir e ser instruído nos princípios cristãos. Assim, aos oito anos de idade entendeu a necessidade de um relacionamento pessoal com Cristo como Seu salvador.
@@ -56,13 +56,16 @@
 		<img src="images/pastorgilson.jpg">		
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">PR. GILSON</h3>
+			<h5 align="middle">PR. GILSON</h5>
 			<h6 align="middle">(Pastor)</h6>
 			<p>
-				Gilson é brasileiro, natural de Santa Catarina. Casado com a Claudia Souza, ministrou uma igreja para brasileiros nos Estados Unidos e hoje está conosco nos auxiliando.
+				Gilson é brasileiro, natural de Santa Catarina e serve ao Senhor desde 1980. É casado com a Claudia Souza desde 2002. Plantou e pastoreou uma igreja de brasileiros nos Estados Unidos durante os anos 1999 e 2012. Atualmente está conosco nos auxiliando.
 			</p>
 			<p>
-				Ministra um grupo em inglês chamado Worship Meeting com intuito de evangelizar e discipular pessoas que visam melhorar a proficiência na língua inglesa.
+				Bacharelado em Ministérios Urbanos (2010) e mestre em Ministérios Urbanos (2012) pelo Gordon-Conwell Theological Seminary (CUME), Boston, MA, o Gilson tem atuado na área do ensino, aconselhamento, música, pregação e pastoreio.
+			</p>
+			<p>
+				Ministra um grupo em inglês chamado Worship Meeting com intuito de evangelizar e discipular pessoas que visam melhorar a proficiência na língua inglesa. Também, lidera uma grupo que se reúne na sua casa às sexta-feiras à noite.
 			</p>
 		</div>
 
@@ -72,7 +75,7 @@
 		<img src="images/examedasescrituras.jpg">
 
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">EXAME DAS ESCRITURAS</h3>
+			<h5 align="middle">EXAME DAS ESCRITURAS</h5>
 			<p>
 				Aprender a Palavra de Deus, ensiná-la e praticá-la.
 			</p>

@@ -8,7 +8,7 @@
 	</div>
 	<div class="descricao-box-entrada">
 		<div class="descricao-box-texto-entrada">
-			<h3 align="middle">AÇÃO SOCIAL</h3>
+			<h5 align="middle">AÇÃO SOCIAL</h5>
 			<p style="font-style: italic">
 				“Se houver algum israelita pobre em qualquer das cidades
 				da terra que o Senhor, o seu Deus, lhe está dando, não
@@ -44,7 +44,7 @@
 
 		<div class="descricao-box-informativa">
 			<div class="descricao-box-texto-informativa">
-				<h3 align="middle">CESTA DO AMOR</h3>				
+				<h5 align="middle">CESTA DO AMOR</h5>				
 				<p>
 					A ação social é um ministério que ajuda mensalmente algumas
 					famílias necessitadas com uma cesta básica de alimentos, a
@@ -71,7 +71,7 @@
 		<img src="images/amoragape.jpg">	
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">AMOR ÁGAPE</h3>
+			<h5 align="middle">AMOR ÁGAPE</h5>
 			<p>
 				O ministério de ação social tem como missão demonstrar amor
 				incondicional aos necessitados. Independentemente de você
@@ -99,7 +99,7 @@
 		<img src="images/comoajudar.jpg">	
 		
 		<div class="descricao-box-texto-informativa">
-			<h3 align="middle">COMO AJUDAR?</h3>
+			<h5 align="middle">COMO AJUDAR?</h5>
 			<p>
 				Você que tem sido abençoado por Deus em suas necessidades,
 				te convidamos a unir forças conosco para suprir necessidades
