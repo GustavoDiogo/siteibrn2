@@ -16,6 +16,20 @@
 	color: white;
 }
 
+@media (max-width: 1200px){
+	#index1{
+		flex-wrap: wrap;
+	}
+	#indexcarousel{
+		width: 100%;
+		margin: 0.5em 0.5em 0em 0.5em;
+	}
+	#devocional{
+		width: 100%;
+		margin: 0em 0.5em 0.5em 0.5em;
+	}
+}
+
 #avisos{
 	display: flex;
 }
@@ -59,16 +73,6 @@
 }
 
 @media (max-width: 1200px){
-	#index1{
-		flex-wrap: wrap;
-	}
-	#indexcarousel{
-		width: 100%;
-		margin: 0.5em 0.5em 0.5em 0.5em;
-	}
-	#devocional{
-		width: 100%;
-	}
 	#ministerios img{
 		width: 128px;
 	}
