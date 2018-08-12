@@ -22,7 +22,7 @@
 				<br> 
 				Reverência (Sl 99.5, Ap 4.10);
 				<br>
-				Gorificação (Sl 29.9).
+				Glorificação (Sl 29.9).
 			</p>
 		</div>    
 	</div>
