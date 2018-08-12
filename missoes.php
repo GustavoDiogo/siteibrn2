@@ -26,14 +26,6 @@
 				como dom gratuito para os homens: a paz e conexão com
 				Deus.
 			</p>
-			<p>
-				Nossa missão, na Igreja Batista Represa Nova, é “alcançar
-				e treinar pessoas para discipular as nações”; queremos que
-				você saiba que o salvador te ama e está de braços abertos
-				para salvar. Jesus Cristo perdoa pecados, limpa feridas, apaga
-				passados, anda junto conosco e constrói novas criaturas que
-				tem a Ele como Senhor e mestre
-			</p>
 		</div>    
 	</div>
 </div>
