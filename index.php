@@ -64,10 +64,10 @@
 
   <div class="aviso" style="background-color: #ff6011">
     <div class="aviso-texto">
-      <h6 align="middle">MUDANÇA DO NÚMERO DA IGREJA</h6>
+      <h6 align="middle">CURADAS PARA CURAR</h6>
       <p>
-        Informamos a todos que o número de telefone da igreja mudou, agora passaremos atender por (11) 3637-6811.
-        </p>
+        O curso Curadas para Curar, terá início 19/08 com a irmã Cláudia. Para mais informações fale com a Sandra Cacuto.  
+      </p>
     </div>
   </div>
 
@@ -91,10 +91,10 @@
 
   <div class="aviso">
     <div class="aviso-texto">
-      <h6 align="middle">MUTIRÃO DE LIMPEZA</h6>
+      <h6 align="middle">MUDANÇA DO NÚMERO DA IGREJA</h6>
       <p>
-        A igreja tem a necessidade de nossa ajuda no que se refere à limpeza e manutenção do templo e suas dependências.  Por essa razão o Mutirão agendado, será remarcado. Fique atento!
-      </p>
+        Informamos a todos que o número de telefone da igreja mudou, agora passaremos atender por (11) 3637-6811.
+        </p>
     </div>
   </div>
 
@@ -117,7 +117,9 @@
     </a>
   </div>
   <div>
-    <img src="images/louvor_thumb.jpg">
+    <a href="louvor.php">
+      <img src="images/louvor_thumb.jpg">
+    </a>
   </div>
   <div>
     <a href="missoes.php">
