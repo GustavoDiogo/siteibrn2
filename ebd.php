@@ -15,12 +15,6 @@
 			<p>
 				O principal material para as aulas é a bíblia, e nossos professores são totalmente capacitados para ministrar as aulas, contextualizando as passagens bíblicas com o nosso cotidiano.
 			</p>
-			<p>
-				Os alunos têm a oportunidade de tirar dúvidas e expor seu entendimento
-			</p>
-			<p>
-				Participe da nossa escola bíblica dominical e aprenda um pouco mais sobre Aquele que mudou a história do mundo e pode mudar a sua vida. Jesus.
-			</p>
 			<p style="font-style: italic;">
 				“Jesus ia passando por todas as cidades e povoados, ensinando nas sinagogas, pregando as boas novas do Reino e curando todas as enfermidades e doenças."(Mateus 9:35)
 			</p>

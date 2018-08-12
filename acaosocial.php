@@ -21,18 +21,13 @@
 				necessidades, a nosso ver, são aquelas que nos dão uma
 				certeza de que não estamos sozinhos nesta vida. Desse
 				modo, temos basicamente duas necessidades essenciais:
-				as espirituais e as materiais. As necessidades espirituais se
+				as espirituais e as materiais.
+			</p>
+			<p>
+				As necessidades espirituais se
 				traduzem no alvo definitivo da nossa vida, no conhecimento
 				de que somos eternos e de que esta eternidade se encontra
 				exclusivamente em Jesus Cristo.
-			</p>
-			<p>
-				É necessário conhecê-Lo
-				para termos nossas necessidades espirituais plenamente
-				satisfeitas. Já as necessidades materiais se traduzem na
-				dignidade da pessoa humana e, como povo de Deus,
-				devemos atendê-las com os recursos que Ele nos dá
-				diariamente e dentro de nossas possibilidades.
 			</p>
 		</div>    
 	</div>

@@ -14,24 +14,13 @@
 				perdido. Lucas”. 19:10
 			</p>
 			<p>
-				O Homem de visão, nunca desiste de suas conquistas.
-				Ao contrário, ele cria meios para realizá-las. Vence as suas
-				limitações pessoais e acha soluções para os problemas.
-				A visão dada por Deus ao homem, sempre tem metas a
-				serem alcançadas são aquelas que atende as necessidades
-				dos outros e agrega valores a quem está perto deles, um
-				abençoador de vidas e que piedosamente divide com
-				aqueles que não têm.
-			</p>
-			<p>
-				Procuramos apresentarmos a Deus
-				como homem aprovado, como obreiro que não tem do que
-				se envergonhar e que maneja corretamente a palavra da
-				verdade e que seja apto e plenamente preparado para toda
+				Procuramos nos apresentarmos a Deus
+				como homens aprovados, como obreiros que não têm do que
+				se envergonhar e que manejam corretamente a Palavra da
+				Verdade e que sejam aptos e plenamente preparados para toda
 				boa obra de um evangelista cumprindo plenamente o seu
-				ministério. Que as nossas orações sejam exemplos de fé e que
-				demonstrem súplicas e petição e que resultem na ação e no
-				mover do coração de Deus. Amém. 
+				ministério. Que as nossas vidas sejam exemplos de fé e que
+				demonstrem humildade e santidade conforme Cristo quer de nós. 
 			</p>
 		</div>    
 	</div>
