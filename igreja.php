@@ -27,10 +27,6 @@
 				não há nenhum outro nome dado aos homens pelo qual
 				devamos ser salvos” (Atos 4.12).
 			</p>
-			<p>
-				Assim, nós existimos para:
-				Alcançar e treinar pessoas para discipular as nações
-			</p>
 		</div>    
 	</div>
 </div>
