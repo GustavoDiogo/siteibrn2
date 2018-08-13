@@ -12,10 +12,10 @@
 			<p>
 				Nossa igreja conta com dois cultos semanais principais.
 				<li>
-					Quarta-feira: 20:00~21:30				
+					Quarta-feira: 20:00~21:30 (Oração)			
 				</li>
 				<li>
-					Domingo: 9:00~11:30 e 18:00~21:00
+					Domingo: 9:00~11:30(Café e EBD) e 18:00~20:30
 				</li>
 			</p>
 			<p>
