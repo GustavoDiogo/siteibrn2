@@ -48,7 +48,7 @@
 	color: white;
 }
 .aviso-texto p{
-	word-break: break-word;
+	word-break: break-all;
 }
 @media (max-width: 1200px){
 	#avisos{
@@ -64,6 +64,9 @@
 	}
 	.aviso-texto{
 		text-align: justify;
+	}
+	.aviso-texto p{
+	word-break: normal;
 	}
 }
 
