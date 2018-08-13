@@ -44,11 +44,14 @@
     <img src="images/avisos.jpg">
   </div>
 
-  <div class="aviso" style="background-color: #ff6011">
+  <div class="aviso" style="background-color: #ff6011;width: 100%">
     <div class="aviso-texto">
-      <h6 align="middle">DIA DOS PAIS</h6>
+      <h6 align="middle">DEVOCIONAIS SEMANAIS</h6>
       <p>
-        No próximo domingo dia 12/08, estaremos comemorando o dia dos pais. O ministério da comunicação convida a todos os pais a fazermos uma foto coletiva.
+        Semanalmente enviamos pelo WhatsApp um aúdio com devocional, para que você ouça, reflita e compartilhe.Se ainda não está cadastrado para receber, nos informe seu número.
+      </p>
+      <p>
+        E-Mail: renova.comunica@represanova.com
       </p>
     </div>
   </div>
