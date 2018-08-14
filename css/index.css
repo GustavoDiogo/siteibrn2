@@ -68,6 +68,7 @@
 	}
 	.aviso-texto p{
 	word-break: normal;
+	hyphens: none;
 	}
 }
 
