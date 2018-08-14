@@ -50,7 +50,7 @@
       <p>
         Semanalmente enviamos pelo WhatsApp um aúdio com devocional, para que você ouça, reflita e compartilhe.Se ainda não está cadastrado para receber, nos informe seu número.
       </p>
-      <p>
+      <p style="word-break: break-all;">
         E-Mail: renova.comunica@represanova.com
       </p>
     </div>

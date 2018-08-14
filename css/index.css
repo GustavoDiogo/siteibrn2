@@ -48,7 +48,8 @@
 	color: white;
 }
 .aviso-texto p{
-	word-break: break-all;
+	hyphens: auto;
+ 	overflow-wrap: break-word;
 }
 @media (max-width: 1200px){
 	#avisos{
