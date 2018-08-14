@@ -52,10 +52,10 @@
 		<img src="images/pastorgilson.jpg">		
 		
 		<div class="descricao-box-texto-informativa">
-			<h5 align="middle">PR. GILSON</h5>
+			<h5 align="middle">PR. GILSON SOUZA</h5>
 			<h6 align="middle">(Pastor)</h6>
 			<p>
-				Gilson é brasileiro, natural de Santa Catarina e serve ao Senhor desde 1980. É casado com a Claudia Souza desde 2002. Plantou e pastoreou uma igreja de brasileiros nos Estados Unidos durante os anos 1999 e 2012. Atualmente está conosco nos auxiliando.
+				Gilson Souza é brasileiro, natural de Santa Catarina e serve ao Senhor desde 1980. É casado com a Claudia Souza desde 2002. Plantou e pastoreou uma igreja de brasileiros nos Estados Unidos durante os anos 1999 e 2012. Atualmente está conosco nos auxiliando.
 			</p>
 			<p>
 				Bacharelado em Ministérios Urbanos (2010) e mestre em Ministérios Urbanos (2012) pelo Gordon-Conwell Theological Seminary (CUME), Boston, MA, o Gilson tem atuado na área do ensino, aconselhamento, música, pregação e pastoreio.
