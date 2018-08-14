@@ -1,0 +1,11 @@
+#header-logo{
+	margin: 0em 2em 0em 2em;
+}
+.nav-item{				
+	font-weight: 600;
+}
+@media (max-width: 991px){
+	#header-logo{
+		margin: 0 auto;
+	}
+}

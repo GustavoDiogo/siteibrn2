@@ -1,39 +1,4 @@
-<style type="text/css">
-    #ft-1{
-      margin: 0.5em 0.5em 0.5em 0.5em;
-    }
-    #ft-1 img{
-      width: 75px;
-    }
-    #ft-2{
-      margin: 1.5em 0.5em 0.5em 0.5em;
-      color: white;
-    }
-    #ft-3{
-      margin: 1.5em 0em 0em 0em;
-    }
-    #ft-3 a{
-      color: white;
-      margin: 0.75em 0.75em 0em 0.75em;
-    }
-
-	@media (max-width: 991px){
-		#ft-1{
-			margin: 0 auto;			
-		}
-		#ft-1 img{
-			width: 80px;
-      margin: 0em 0em 0.75em 0em;
-		}
-    #ft-2{      
-      font-size: 13px;
-      margin: 0em 0em 1em 0em;
-    }
-    #ft-3{     
-      margin: 0em 0em 0.75em 0em;
-    }
-	}
-</style>
+<link rel="stylesheet" href="css/footer.css">
 
 <footer>
   <div style="background-color: #ff6011">
