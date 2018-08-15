@@ -32,9 +32,9 @@
   <div id="devocional">
     <div id="devocional-descricao">
       <h5 align="middle">DEVOCIONAL DA SEMANA</h5>
-      Pensamento: Muitas vezes uma oportunidade nova parece boa aos nossos olhos e a impressão que temos é que tudo vai acabar bem, o problema é que as vezes nossa motivação está errada, e podemos acabar nos afastando da vontade de Deus. Por isso devemos sempre consultar ao Senhor e quando tivermos a resposta certa de Deus, então nossos planos passam a ser os mesmos planos de Deus, e assim podemos descansar, pois tudo o que Deus faz é perfeito e nunca falha.
-      
-      Oração: Pai querido, ajuda-me a lembrar sempre que eu devo consultar ao Senhor para que os meus caminhos sejam sempre os Seus caminhos, pois não quero andar fora do centro da sua vontade.
+        <div id="devocionalvideo">
+            <iframe width="560" height="349" src="https://www.youtube.com/embed/W9sIJFkgYic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
     </div>    
   </div>
 </div>
