@@ -1,5 +1,9 @@
+.navbar{
+	background-color: #ff6011;
+}
 #header-logo{
 	margin: 0em 2em 0em 2em;
+	width: 135px;
 }
 .nav-item{				
 	font-weight: 600;
