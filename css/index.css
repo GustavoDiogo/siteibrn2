@@ -28,10 +28,9 @@
 }
 #devocional-descricao{
 	margin: 1em 1em 1em 1em;
-	text-align: justify;
+	text-align: center;
 	color: white;
 }
-
 @media (max-width: 1200px){
 	#index1{
 		flex-wrap: wrap;
