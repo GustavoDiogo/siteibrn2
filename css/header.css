@@ -1,3 +1,17 @@
+@font-face{
+	font-family: "Panton Bold";
+	src: url("fonts/Panton-Bold.otf");
+}
+@font-face{
+	font-family: "Gotham Book";
+	src: url("fonts/GothamRnd-Book.otf")
+}
+h5,h6{
+	font-family: "Panton Bold";
+}
+p{
+	font-family: "Gotham Book";
+}
 .navbar{
 	background-color: #ff6011;
 }
@@ -5,8 +19,8 @@
 	margin: 0em 2em 0em 2em;
 	width: 135px;
 }
-.nav-item{				
-	font-weight: 600;
+.nav-item{
+	font-family: "Panton Bold";
 }
 @media (max-width: 991px){
 	#header-logo{

@@ -47,7 +47,7 @@
 				</p>					
 				<p>
 					É uma forma de demonstrar o amor que Represa Nova tem e
-					o cuidado com relação às famílias necessitadas. Essa sexta é
+					o cuidado com relação às famílias necessitadas. Essa cesta é
 					feita a partir de doações de alimentos e doações em espécie.
 					Estamos orando para que Deus levante mais recursos para
 					ajudar mais famílias, porque até o momento, não é possível

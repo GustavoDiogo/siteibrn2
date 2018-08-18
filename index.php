@@ -41,7 +41,7 @@
         <div id="devocionalvideo">
             <iframe width="560" height="349" src="https://www.youtube.com/embed/W9sIJFkgYic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>           
         </div>        
-        <a href="https://www.youtube.com/channel/UCvNtPmmcjh_2N4hZYZruawA" style="color: white">Mais devocionais em nosso Youtube: <i class="fab fa-youtube"></i></a>        
+        <a href="https://www.youtube.com/channel/UCvNtPmmcjh_2N4hZYZruawA" style="color: white"><p>Mais devocionais em nosso Youtube: <i class="fab fa-youtube"></i></p></a>        
     </div>    
   </div>
 </div>
