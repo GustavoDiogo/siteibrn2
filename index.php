@@ -11,13 +11,19 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img style="width: 1080px" class="d-block w-100" src="images/carousel_ebd.jpg">
+        <a href="ebd.php">
+          <img class="d-block w-100" src="images/carousel_ebd.jpg">
+        </a>
       </div>
       <div class="carousel-item ">
-        <img style="width: 1080px" class="d-block w-100" src="images/carousel_missoes.jpg">
+        <a href="missoes.php">
+          <img class="d-block w-100" src="images/carousel_missoes.jpg">
+        </a>
       </div>
       <div class="carousel-item ">
-        <img style="width: 1080px" class="d-block w-100" src="images/carousel_represart.jpg">
+        <a href="represart.php">
+          <img class="d-block w-100" src="images/carousel_represart.jpg">
+        </a>
       </div>
     </div>
     <a class="carousel-control-prev" href="#indexcarousel" role="button" data-slide="prev">
@@ -49,10 +55,10 @@
     <div class="aviso-texto">
       <h6 align="middle">DEVOCIONAIS SEMANAIS</h6>
       <p>
-        Semanalmente enviamos pelo WhatsApp um aúdio com devocional, para que você ouça, reflita e compartilhe.Se ainda não está cadastrado para receber, nos informe seu número.
+        Semanalmente enviamos pelo WhatsApp um aúdio com devocional, para que você ouça, reflita e compartilhe. Se ainda não está cadastrado para receber, nos informe seu número.
       </p>
       <p style="word-break: break-all;">
-        E-Mail: renova.comunica@represanova.com
+        E-mail: renova.comunica@represanova.com
       </p>
     </div>
   </div>

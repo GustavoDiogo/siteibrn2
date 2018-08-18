@@ -4,7 +4,7 @@
 
 <div class="top-div-entrada">
 	<div class="banner">
-		<img src="images/louvor_banner.jpg">
+		<img src="images/banner_louvor.jpg">
 	</div>
 	<div class="descricao-box-entrada">
 		<div class="descricao-box-texto-entrada">
