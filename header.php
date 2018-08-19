@@ -47,7 +47,7 @@
 						</div>
 					</li>
 					<li class="nav-item">
-						<a style="color: white" class="nav-link" data-target="#navbarSupportedContent">CONTATO</a>
+						<a style="color: white" href="contato.php" class="nav-link" data-target="#navbarSupportedContent">CONTATO</a>
 					</li>
 				</ul>
 			</div>
