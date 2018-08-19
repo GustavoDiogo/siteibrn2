@@ -50,7 +50,7 @@
   <div>
     <img src="images/avisos.jpg">
   </div>
-
+<!--
   <div class="aviso" style="background-color: #ff6011;width: 100%">
     <div class="aviso-texto">
       <h6 align="middle">DEVOCIONAIS SEMANAIS</h6>
@@ -62,12 +62,15 @@
       </p>
     </div>
   </div>
+  !-->
 
   <div class="aviso">
     <div class="aviso-texto">
       <h6 align="middle">CAFÉ DOS HOMENS</h6>
       <p>
-        Está chegando mais uma oportunidade de ter aquele momento de conversa e estudo, tomando um café agradável. Sábado dia 18/08 às 9:00.
+        Café dos homens foi uma bênção. Louvamos a Deus por essa
+        oportunidade de ter momento de conversa e estudo, tomando
+        um café agradável. Obrigado as irmãs Doroti e Edi.
       </p>
     </div>
   </div>
@@ -85,16 +88,20 @@
     <div class="aviso-texto">
       <h6 align="middle">CLASSE DE BATISMO</h6>
       <p>
-        Em Agosto daremos início a nova classe de batismo, aguarde mais informações.
+        Em Setembro dará início à classe de batismo. Aqueles que
+        receberam a Cristo e que gostariam de entender mais e obedecer
+        a ordem de Jesus acerca do batismo, entrem em contato com o
+        Pr. Cacuto e ou do o Diácono Darcy
       </p>
     </div>
   </div>
 
   <div class="aviso" style="background-color: #ff6011">
     <div class="aviso-texto">
-      <h6 align="middle">AÇÃO SOCIAL</h6>
+      <h6 align="middle">REUNIÃO DE LIDERANÇA</h6>
       <p>
-        Traga alimentos não perecíveis para o suprimento de cestas básicas ou faça contribuição em espécie identificando no envelope a designação de sua oferta.
+        Convoca-se todos os lideres da igreja a participar da reunião
+        agendada para o dia 01/09/2018 às 16h00. Anote essa data. 
       </p>
     </div>
   </div>
