@@ -7,10 +7,16 @@
     <ol class="carousel-indicators">
       <li data-target="#indexcarousel" data-slide-to="0" class="active"></li>
       <li data-target="#indexcarousel" data-slide-to="1"></li>
-      <li data-target="#indexcarousel" data-slide-to="2"></li>  
+      <li data-target="#indexcarousel" data-slide-to="2"></li>
+      <li data-target="#indexcarousel" data-slide-to="3"></li>   
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
+        <a href="https://goo.gl/forms/XaV1XEvpqJu6aimk2">
+          <img class="d-block w-100" src="images/carousel_crown.jpg">
+        </a>
+      </div>
+      <div class="carousel-item">
         <a href="ebd.php">
           <img class="d-block w-100" src="images/carousel_ebd.jpg">
         </a>
@@ -39,7 +45,7 @@
     <div id="devocional-descricao">
       <h5 align="middle">DEVOCIONAL DA SEMANA</h5>
         <div id="devocionalvideo">
-            <iframe width="560" height="349" src="https://www.youtube.com/embed/W9sIJFkgYic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>           
+            <iframe width="560" height="349" src="https://www.youtube.com/embed/GpA_NaDkfyk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>           
         </div>        
         <a href="https://www.youtube.com/channel/UCvNtPmmcjh_2N4hZYZruawA" style="color: white"><p>Mais devocionais em nosso Youtube: <i class="fab fa-youtube"></i></p></a>        
     </div>    
@@ -79,7 +85,7 @@
     <div class="aviso-texto">
       <h6 align="middle">CURADAS PARA CURAR</h6>
       <p>
-        O curso Curadas para Curar, terá início 19/08 com a irmã Cláudia. Para mais informações fale com a Sandra Cacuto.  
+        O curso Curadas para Curar, teve início 19/08 com a irmã Cláudia. Para mais informações fale com a Sandra Cacuto.  
       </p>
     </div>
   </div>
@@ -91,7 +97,7 @@
         Em Setembro dará início à classe de batismo. Aqueles que
         receberam a Cristo e que gostariam de entender mais e obedecer
         a ordem de Jesus acerca do batismo, entrem em contato com o
-        Pr. Cacuto e ou do o Diácono Darcy
+        Pr. Cacuto ou Diácono Darcy
       </p>
     </div>
   </div>
