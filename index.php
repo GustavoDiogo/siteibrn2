@@ -8,12 +8,18 @@
       <li data-target="#indexcarousel" data-slide-to="0" class="active"></li>
       <li data-target="#indexcarousel" data-slide-to="1"></li>
       <li data-target="#indexcarousel" data-slide-to="2"></li>
-      <li data-target="#indexcarousel" data-slide-to="3"></li>   
+      <li data-target="#indexcarousel" data-slide-to="3"></li>  
+      <li data-target="#indexcarousel" data-slide-to="4"></li>
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
         <a href="https://goo.gl/forms/XaV1XEvpqJu6aimk2">
           <img class="d-block w-100" src="images/carousel_crown.jpg">
+        </a>
+      </div>
+      <div class="carousel-item">
+        <a href="missoes.php">
+          <img class="d-block w-100" src="images/carousel_jmn2018.jpg">
         </a>
       </div>
       <div class="carousel-item">
@@ -56,27 +62,11 @@
   <div>
     <img src="images/avisos.jpg">
   </div>
-<!--
-  <div class="aviso" style="background-color: #ff6011;width: 100%">
-    <div class="aviso-texto">
-      <h6 align="middle">DEVOCIONAIS SEMANAIS</h6>
-      <p>
-        Semanalmente enviamos pelo WhatsApp um aúdio com devocional, para que você ouça, reflita e compartilhe. Se ainda não está cadastrado para receber, nos informe seu número.
-      </p>
-      <p style="word-break: break-all;">
-        E-mail: renova.comunica@represanova.com
-      </p>
-    </div>
-  </div>
-  !-->
-
   <div class="aviso">
     <div class="aviso-texto">
-      <h6 align="middle">CAFÉ DOS HOMENS</h6>
+      <h6 align="middle">CROWN - CURSO DE GESTÃO FINANCEIRA</h6>
       <p>
-        Café dos homens foi uma bênção. Louvamos a Deus por essa
-        oportunidade de ter momento de conversa e estudo, tomando
-        um café agradável. Obrigado as irmãs Doroti e Edi.
+        O curso para pessoas casadas ou solteiras, sobre gestão financeira terá início no dia 02/09. Para mais informações fale com Pr. Cacuto ou Dc. Marcelo.
       </p>
     </div>
   </div>
@@ -90,7 +80,17 @@
     </div>
   </div>
 
-  <div class="aviso">
+    <div class="aviso">
+    <div class="aviso-texto">
+      <h6 align="middle">REUNIÃO DE LIDERANÇA</h6>
+      <p>
+        Convoca-se todos os lideres da igreja a participar da reunião
+        agendada para o dia 01/09/2018 às 16h00. Anote essa data. 
+      </p>
+    </div>
+  </div>
+
+  <div class="aviso" style="background-color: #ff6011">
     <div class="aviso-texto">
       <h6 align="middle">CLASSE DE BATISMO</h6>
       <p>
@@ -102,22 +102,15 @@
     </div>
   </div>
 
-  <div class="aviso" style="background-color: #ff6011">
-    <div class="aviso-texto">
-      <h6 align="middle">REUNIÃO DE LIDERANÇA</h6>
-      <p>
-        Convoca-se todos os lideres da igreja a participar da reunião
-        agendada para o dia 01/09/2018 às 16h00. Anote essa data. 
-      </p>
-    </div>
-  </div>
-
   <div class="aviso">
     <div class="aviso-texto">
-      <h6 align="middle">MUDANÇA DO NÚMERO DA IGREJA</h6>
+      <h6 align="middle">MUTIRÃO ADIADO</h6>
       <p>
-        Informamos a todos que o número de telefone da igreja mudou, agora passaremos atender por (11) 3637-6811.
-        </p>
+        A igreja tem a necessidade da nossa ajuda na limpeza e manutenção do templo e suas dependências. 
+      </p>
+      <p>
+        Por conta do mau clima o mutirão continua sem data marcada.
+      </p>
     </div>
   </div>
 
