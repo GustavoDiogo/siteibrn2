@@ -51,7 +51,7 @@
     <div id="devocional-descricao">
       <h5 align="middle">DEVOCIONAL DA SEMANA</h5>
         <div id="devocionalvideo">
-            <iframe width="560" height="349" src="https://www.youtube.com/embed/BEjRhJhsNuk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>           
+            <iframe width="560" height="349" src="https://www.youtube.com/embed/9X0ya-YsC98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>           
         </div>        
         <a href="https://www.youtube.com/channel/UCvNtPmmcjh_2N4hZYZruawA" style="color: white"><p>Mais devocionais em nosso Youtube: <i class="fab fa-youtube"></i></p></a>        
     </div>    
@@ -62,11 +62,12 @@
   <div>
     <img src="images/avisos.jpg">
   </div>
+
   <div class="aviso">
     <div class="aviso-texto">
-      <h6 align="middle">CAMPANHA MISSÕES NACIONAIS</h6>
+      <h6 align="middle">CAFÉ DOS HOMENS</h6>
       <p>
-        No culto noturno 02/09, teremos a abertura da campanha de Missões Nacionais que vai até Outubro. O alvo é de R$ 4400,00. No próximo domingo pela manhã teremos um o Missionário Donaldo da JMN em Manaus.
+        O Café dos Homens acontece em todo o terceiro sábado de cada mês. O próximo será no dia 15/09 às 9h00, compartilhe e não deixe de convidar os parentes e amigos.
       </p>
     </div>
   </div>
@@ -75,34 +76,34 @@
     <div class="aviso-texto">
       <h6 align="middle">CROWN - GESTÃO FINANCEIRA</h6>
       <p>
-        Terá início em 02/09, o Curso de Gestão Financeira. São 10 lições que serão ministradas aos domingos(9h00 às 11h30). Investimento R$110,00(Material didático, Livro, Manuais do Aluno e Aplicação Prática). Contatos: (11) 99367-2469 e (11) 96990-2002.
-      </p>
-    </div>
-  </div>
-
-    <div class="aviso">
-    <div class="aviso-texto">
-      <h6 align="middle">PROJETO DE APOIO PEDAGÓGICO</h6>
-      <p>
-        Estamos planejando um projeto de Apoio Pedagógico (gratuito). Aqueles que de alguma forma podem contribuir, por favor entrar em contato com o Pr. Cacuto e ou a Lucília. 
-      </p>
-    </div>
-  </div>
-
-  <div class="aviso" style="background-color: #ff6011">
-    <div class="aviso-texto">
-      <h6 align="middle">AÇÃO SOCIAL</h6>
-      <p>
-        Agradecemos pelas contribuições recebidas e que atendem as necessidades para o mês de Setembro. Ao mesmo tempo o desafio é que perseveremos para cada vez podermos fazer mais.
+        Continuará em 23/09. São 10 lições que serão ministradas aos domingos(9h00 às 11h30). Investimento R$110,00(Material didático, Livro, Manuais do Aluno e Aplicação Prática). Contatos: (11) 99367-2469 e (11) 96990-2002.
       </p>
     </div>
   </div>
 
   <div class="aviso">
     <div class="aviso-texto">
-      <h6 align="middle">MINISTÉRIO DE COMUNICAÇÃO</h6>
+      <h6 align="middle">CAMPANHA MISSÕES NACIONAIS</h6>
       <p>
-      A partir desta semana, as devocionais e toda as informações oficais da IBRN serão enviada pelo celular (11) 95900-0552. Por favor, adicione-o em sua agenda.
+        Tivemos a abertura da campanha de Missões Nacionais que irá até Outubro. O alvo é de R$ 4400,00, somos movidos pela Graça, não deixe de contribuir!
+      </p>
+    </div>
+  </div>
+
+  <div class="aviso" style="background-color: #ff6011">
+    <div class="aviso-texto">
+      <h6 align="middle">CULTO DO AMIGO</h6>
+      <p>
+        No culto noturno do domingo do dia 13/10, estaremos celebrando um culto especial, desafiamos os irmãos a convidar seus amigos para estarem juntos nesse dia.
+      </p>
+    </div>
+  </div>
+
+  <div class="aviso">
+    <div class="aviso-texto">
+      <h6 align="middle">PROJETO DE APOIO PEDAGÓGICO</h6>
+      <p>
+        Estamos planejando um Apoio Pedagógico (gratuito). Aqueles que de alguma forma podem contribuir, por favor entrar em contato com o Pr. Cacuto ou Lucília. 
       </p>
     </div>
   </div>
