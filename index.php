@@ -51,7 +51,7 @@
     <div id="devocional-descricao">
       <h5 align="middle">DEVOCIONAL DA SEMANA</h5>
         <div id="devocionalvideo">
-            <iframe width="560" height="349" src="https://www.youtube.com/embed/9X0ya-YsC98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>           
+            <iframe width="560" height="349" src="https://www.youtube.com/embed/ymqU5K0qpZo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>           
         </div>        
         <a href="https://www.youtube.com/channel/UCvNtPmmcjh_2N4hZYZruawA" style="color: white"><p>Mais devocionais em nosso Youtube: <i class="fab fa-youtube"></i></p></a>        
     </div>    
