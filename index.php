@@ -65,9 +65,9 @@
 
   <div class="aviso">
     <div class="aviso-texto">
-      <h6 align="middle">CAFÉ DOS HOMENS</h6>
+      <h6 align="middle">MUTIRÃO DE LIMPEZA</h6>
       <p>
-        O Café dos Homens acontece em todo o terceiro sábado de cada mês. O próximo será no dia 15/09 às 9h00, compartilhe e não deixe de convidar os parentes e amigos.
+        Próximo sábado 22/09 faremos a limpeza da igreja e da sala da Comunicação. A igreja tem a necessidade de ajuda para a limpeza e manutenção do templo e suas dependências.
       </p>
     </div>
   </div>
@@ -83,18 +83,18 @@
 
   <div class="aviso">
     <div class="aviso-texto">
-      <h6 align="middle">CAMPANHA MISSÕES NACIONAIS</h6>
+      <h6 align="middle">CULTO DO AMIGO</h6>
       <p>
-        Tivemos a abertura da campanha de Missões Nacionais que irá até Outubro. O alvo é de R$ 4400,00, somos movidos pela Graça, não deixe de contribuir!
+        No culto noturno do domingo do dia 13/10, estaremos celebrando um culto especial, desafiamos os irmãos a convidar seus amigos para estarem juntos nesse dia.
       </p>
     </div>
   </div>
 
   <div class="aviso" style="background-color: #ff6011">
     <div class="aviso-texto">
-      <h6 align="middle">CULTO DO AMIGO</h6>
+      <h6 align="middle">CAMPANHA MISSÕES NACIONAIS</h6>
       <p>
-        No culto noturno do domingo do dia 13/10, estaremos celebrando um culto especial, desafiamos os irmãos a convidar seus amigos para estarem juntos nesse dia.
+        Tivemos a abertura da campanha de Missões Nacionais que irá até Outubro. O alvo é de R$ 4400,00, somos movidos pela Graça, não deixe de contribuir!
       </p>
     </div>
   </div>
