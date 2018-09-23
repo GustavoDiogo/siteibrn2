@@ -51,7 +51,7 @@
     <div id="devocional-descricao">
       <h5 align="middle">DEVOCIONAL DA SEMANA</h5>
         <div id="devocionalvideo">
-            <iframe width="560" height="349" src="https://www.youtube.com/embed/ymqU5K0qpZo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>           
+            <iframe width="560" height="349" src="https://www.youtube.com/embed/_jD3ji2bmtI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>           
         </div>        
         <a href="https://www.youtube.com/channel/UCvNtPmmcjh_2N4hZYZruawA" style="color: white"><p>Mais devocionais em nosso Youtube: <i class="fab fa-youtube"></i></p></a>        
     </div>    
@@ -65,27 +65,28 @@
 
   <div class="aviso">
     <div class="aviso-texto">
-      <h6 align="middle">MUTIRÃO DE LIMPEZA</h6>
+      <h6 align="middle">CULTO DO AMIGO</h6>
       <p>
-        Próximo sábado 22/09 faremos a limpeza da igreja e da sala da Comunicação. A igreja tem a necessidade de ajuda para a limpeza e manutenção do templo e suas dependências.
+        No culto noturno do domingo do dia 14/10, estaremos celebrando um culto especial, convidem seus amigos para estarem juntos nesse dia.
       </p>
     </div>
   </div>
 
   <div class="aviso" style="background-color: #ff6011">
     <div class="aviso-texto">
-      <h6 align="middle">CROWN - GESTÃO FINANCEIRA</h6>
+      <h6 align="middle">CONFERÊNCIA MISPA</h6>
       <p>
-        Continuará em 23/09. São 10 lições que serão ministradas aos domingos(9h00 às 11h30). Investimento R$110,00(Material didático, Livro, Manuais do Aluno e Aplicação Prática). Contatos: (11) 99367-2469 e (11) 96990-2002.
+        Durante os dias 26/10 e 27/10 o seminário MISPA estará realizando uma conferência com o tema "Igreja de mente sã e espiritualidade saudável". O custo é de R$60,00, interessados falar com Pr. Cacuto.
       </p>
     </div>
   </div>
 
+
   <div class="aviso">
     <div class="aviso-texto">
-      <h6 align="middle">CULTO DO AMIGO</h6>
+      <h6 align="middle">CROWN - GESTÃO FINANCEIRA</h6>
       <p>
-        No culto noturno do domingo do dia 13/10, estaremos celebrando um culto especial, desafiamos os irmãos a convidar seus amigos para estarem juntos nesse dia.
+        Continuará em 23/09. São 10 lições que serão ministradas aos domingos(9h00 às 11h30). Investimento R$110,00(Material didático, Livro, Manuais do Aluno e Aplicação Prática). Contatos: (11) 99367-2469 e (11) 96990-2002.
       </p>
     </div>
   </div>
